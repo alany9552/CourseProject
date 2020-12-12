@@ -2,26 +2,29 @@
 
 ## The python implementation is following the instructions from research papers:
 
-"Latent Aspect Rating Analysis on Review Text Data: A Rating Regression Approach", http://sifaka.cs.uiuc.edu/~wang296/paper/rp166f-wang.pdf
+"Latent Aspect Rating Analysis on Review Text Data: A Rating Regression Approach", 
+http://sifaka.cs.uiuc.edu/~wang296/paper/rp166f-wang.pdf
 
 "Latent Aspect Rating Analysis without Aspect Keyword Supervision",
 http://sifaka.cs.uiuc.edu/~wang296/paper/p618.pdf
 
-This is a python implementation of following research paper from Wang et al. 
+## Implementations and Contributers:
 
-Latent Aspect Rating Analysis on Review Text Data: A Rating Regression Approach
-by Hongning Wang, Yue Lu, Chengxiang Zhai. The 16th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2010), p783-792, 2010.
+This implementation uses the orignal implementation given by the author (http://www.cs.virginia.edu/~hw5x/Codes/LARA.zip).
+Also, the Latent Rating Regression model and Bootstrap use the implementation of existing models from:
+https://github.com/redris96/LARA
+https://github.com/seanliu96/LARA
+https://github.com/biubiutang/LARA-1
 
-This implementation uses the previous implementation given by the author (http://www.cs.virginia.edu/~hw5x/Codes/LARA.zip).
+## Contributors:
+Chengmin Huang - ch61@illinois.edu
+Xuehao Wang - xuehaow2@illinois.edu
+Ge Yu - gey2@illinois.edu
 
-Latent Aspect Rating Analysis aims at analyzing opinions expressed about an entity in an online review at the level of topical aspects to discover each individual reviewer’s latent opinion on each aspect as well as the relative emphasis on different aspects
-when forming the overall judgment of the entity. It uses probabilistic rating regression to solve this problem.
+## Organization of the implemenataion:
 
-Contributors:
-https://github.com/hemantverma1
-https://github.com/kanishtha
+Directory:
 
-Organization of the code:
 There are two classes Sentence and Review each coded in different python files. These act as data containers for a sentence and a single review respectively. 
 ReadData contains all functions for processing the reviews. BootStrap class contains the bootstrapping algorithm as explained in the paper. LRR class contains the implementation of Rating Regression algorithm as described in the paper. 
 We had initially coded as ipython notebooks so .ipynb files also exist.
