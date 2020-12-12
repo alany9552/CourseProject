@@ -14,8 +14,28 @@ path="hotelReviews/"
 projectSettings="settings/"
 from collections import defaultdict
 import string
-from Sentence import Sentence
-from Review import Review
+from collections import defaultdict
+from nltk import FreqDist
+
+class Sentence:
+    def __init__(self, wordList):
+        self.wordFreqDict = FreqDist(wordList)#Dictionary of words in the sentence and corres. frequency
+        self.assignedAspect = [] #list of aspects assigned to this sentence
+    def __str__(self):
+        return self.wordFreqDict.pformat(10000) + '##' + str(self.assignedAspect)
+
+class Review:
+    def __init__(self):
+        self.sentences = [] #list of objects of class Sentence
+        self.reviewId = ""
+        self.ratings = {} #true ratings provided by the user
+
+    def __str__(self):
+        retStr = ""
+        for sentence in self.sentences:
+            retStr += sentence.__str__() + '\n'
+        retStr += "###"+self.reviewId+"###"+str(self.ratings)+"\n"
+        return retStr
 
 class ReadData:
     def __init__(self):
@@ -26,20 +46,19 @@ class ReadData:
         self.allReviews = [] #list of Review objects from the whole corpus
         self.aspectSentences = defaultdict(list) #aspect to Sentences mapping
 
-    def readAspectSeedWords(self):
-        with open(projectSettings+"SeedWords.json") as fd:
-            seedWords = json.load(fd)
-            for aspect in seedWords["aspects"]:
-                self.aspectKeywords[aspect["name"]] = aspect["keywords"]
+    def readWords(self):
+        fd1 = open(projectSettings+"SeedWords.json")
+        seed = json.load(fd1)
+        fd2 = open(projectSettings+"stopwords.dat")
 
-    def readStopWords(self):
-        with open(projectSettings+"stopwords.dat") as fd:
-            for stopWord in fd:
-                self.stopWords.append(stopWord.strip())
+        for aspect in seed["aspects"]:
+            self.aspectKeywords[aspect["name"]] = aspect["keywords"]
+        for stopWord in fd2:
+            self.stopWords.append(stopWord.strip())
         for stopWord in stopwords.words('english'):
             if stopWord not in self.stopWords:
                 self.stopWords.append(stopWord)
-        #print(self.stopWords)
+
 
     def stemmingStopWRemoval(self, review, vocab):
         ''' Does Following things:
@@ -55,29 +74,28 @@ class ReadData:
         reviewObj.reviewId = review["ReviewID"]
 
         stemmer = PorterStemmer()
-
         reviewContent = review["Content"]
-        #TODO: Append title too!
         sentencesInReview = nltk.sent_tokenize(reviewContent)
-        puncs = set(string.punctuation) #punctuation marks
+        puncs = {']', '!', '+', '`', '*', ')', '.', '\\', '~', '>', '#', '|',
+        '<', '/', '{', ',', '[', '$', '}', '-', ';', '(', '%', '_',
+        '@', "'", '=', '&', '"', ':', '^', '?'}
+
         for sentence in sentencesInReview:
             wordList=[]
             words = nltk.word_tokenize(sentence)
             for word in words:
-                if not all(c.isdigit() or c in puncs for c in word):
-                    word = word.lower()
-                    if word not in self.stopWords:
-                        print(word)
-                        print("!!!!")
-                        word=stemmer.stem(word.lower())
-                        print(word)
-                        vocab.append(word)
-                        wordList.append(word)
+                # if not all(c.isdigit() or c in puncs for c in word):
+                for i in word:
+                    if not ((i.isdigit()) and (i in puncs)):
+                        word = word.lower()
+                        if word not in self.stopWords:
+                            word=stemmer.stem(word)
+                            vocab.append(word)
+                            wordList.append(word)
             if wordList:
                 sentenceObj=Sentence(wordList)
                 reviewObj.sentences.append(sentenceObj)
-        if reviewObj.sentences:
-            self.allReviews.append(reviewObj)
+        self.allReviews.append(reviewObj)
             #print(reviewObj)
 
     def readReviewsFromJson(self):
@@ -90,12 +108,14 @@ class ReadData:
             data=json.load(fd)
             for review in data["Reviews"]:
                 self.stemmingStopWRemoval(review,vocab)
+                print(review)
         self.wordFreq = FreqDist(vocab)
         for word,freq in self.wordFreq.items():
             if freq < 5:
                 self.lessFrequentWords.add(word)
         for word in self.lessFrequentWords:
             del self.wordFreq[word]
+
 
         # print("Less Frequent Words ",self.lessFrequentWords)
         # print("Vocab ", self.wordFreq.pformat(10000))
@@ -113,7 +133,36 @@ class ReadData:
                     del sentence.wordFreqDict[word]
                 if not sentence.wordFreqDict:
                     emptySentences.add(sentence)
-            review.sentences[:] = [x for x in review.sentences if x not in emptySentences]
+
+            temp = [x for x in review.sentences if x not in emptySentences]
+
+            for i, x in enumerate(review.sentences):
+                if x not in emptySentences:
+                    review.sentences[i] = x #x?
+                else:
+                    review.sentences.pop(i)
+            # print(len(temp))
+            # print(len(review.sentences))
+            # for i in range(len(review.sentences)):
+            #     if temp[i] == review.sentences[i]:
+            #         print("True")
+            #     else:
+            #         print("False")
+
+
+            # review.sentences[:] = [x for x in review.sentences if x not in emptySentences]
+            # print(x for x in review.sentences if x not in emptySentences)
+            # for x in review.sentences:
+            #     if x not in emptySentences:
+            #         print(x)
             if not review.sentences:
                 emptyReviews.add(review)
-        self.allReviews[:] = [x for x in self.allReviews if x not in emptyReviews]
+
+        temp2 = [x for x in self.allReviews if x not in emptySentences]
+        for i, x in enumerate(self.allReviews):
+            if x not in emptyReviews:
+                self.allReviews[i] = x #x?
+            else:
+                self.allReviews[i].pop(i)
+
+        #self.allReviews[:] = [x for x in self.allReviews if x not in emptyReviews]
