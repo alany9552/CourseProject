@@ -110,7 +110,7 @@ class LRR:
         #print(self.wordIndexMapping)
     
     def createAspectIndexMapping(self):
-        i=0;
+        i=0
         for aspect in self.aspectKeywords.keys():
             self.aspectIndexMapping[aspect]=i
             self.reverseAspIndexmapping[i]=aspect
@@ -336,7 +336,7 @@ class LRR:
         old_likelihood = self.calcLikelihood()
         self.logger.info("initial calcLikelihood calculated, det(Sig): %s" % np.linalg.det(self.sigma)) 
         diff = 10.0
-        while(iteration<min(8, maxIter) or (iteration<maxIter and diff>coverge)):
+        while(iteration<min(100, maxIter) or (iteration<maxIter and diff>coverge)):
             self.EStep()
             self.logger.info("EStep completed") 
             likelihood = self.MStep()
@@ -367,7 +367,7 @@ class LRR:
             
 np.seterr(all='raise')
 lrrObj = LRR()
-lrrObj.EMAlgo(maxIter=10, coverge=0.0001)
+lrrObj.EMAlgo(maxIter=150, coverge=0.01)
 lrrObj.testing()
 
 

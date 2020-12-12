@@ -67,10 +67,10 @@ class ReadData:
                 if not all(c.isdigit() or c in puncs for c in word):
                     word = word.lower()
                     if word not in self.stopWords:
-                        print(word)
-                        print("!!!!")
+                        # print(word)
+                        # print("!!!!")
                         word=stemmer.stem(word.lower())
-                        print(word)
+                        # print(word)
                         vocab.append(word)
                         wordList.append(word)
             if wordList:
@@ -86,6 +86,8 @@ class ReadData:
         '''
         vocab=[]
         for filename in glob.glob(os.path.join(path, '*.json')):
+            # print(filename)
+            # print("111")
             fd=open(filename)
             data=json.load(fd)
             for review in data["Reviews"]:
