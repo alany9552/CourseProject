@@ -48,11 +48,8 @@ To run the software, users need to make sure they have installed the Python3 env
 * Background:
 Python 3.7
 
-* Required Packages:
-
-NLTK
-
-numpy
+* Required Packages: 
+NLTK numpy
 
 * Specific Step:
 After the completion of installation, users can run the software using python3 ReadData.py, python3 BootStrap.py, and python3 LRR.py sequentially. Then, the running results would show up. The results will list the “ReviewId”, “Actual OverallRating”, and “Predicted OverallRating” respectively in your terminal window.
