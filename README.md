@@ -56,7 +56,7 @@ numpy
 * Specific Step:
 After the completion of installation, users can run the software using python3 ReadData.py, python3 BootStrap.py, and python3 LRR.py sequentially. Then, the running results would show up. The results will list the “ReviewId”, “Actual OverallRating”, and “Predicted OverallRating” respectively in your terminal window.
 
-*Customize:
+* Customize:
 The software running can also be customized by users in terms of ratio of training dataset and testing dataset. In the line 46 LRR.py file, the users can change the percentage of the training set. Currently, the training dataset and testing dataset are in 3:1 ratio. In addition to the training ratio, users can also specify the maximum interaction steps and coverage threshold in line 370. Moreover, if they want to change the maximum interaction steps much lower, the changing of line 339 is also needed.
 
 * Reading Results:
