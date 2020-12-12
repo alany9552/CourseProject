@@ -49,6 +49,7 @@ To run the software, users need to make sure they have installed the Python3 env
 Python 3.7
 
 * Required Packages:
+
 NLTK
 
 numpy
