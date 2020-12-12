@@ -4,11 +4,14 @@
 # In[7]:
 
 import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
 from scipy import optimize
 import json
 import random
 import logging
 modelDataDir = "modelData/"
+
 
 class LRR:
     def __init__(self):
@@ -346,7 +349,7 @@ class LRR:
             iteration+=1
         self.logger.info("Training completed")
     
-    def testing(self):
+    def testing(self, actual, prediction):
         for i in range(self.R-self.Rn):
             rIdx = self.testIndex[i]
             W = self.createWMatrix(self.wList[rIdx])
@@ -354,6 +357,8 @@ class LRR:
             overallRating = self.calcOverallRating(self.mu,Sd)
             print("ReviewId-",self.reviewIdList[rIdx])
             print("Actual OverallRating:",self.ratingsList[rIdx]["Overall"])
+            actual.append(self.ratingsList[rIdx]["Overall"])
+            prediction.append(overallRating)
             print("Predicted OverallRating:",overallRating)
             print("Actual vs Predicted Aspect Ratings:")
             for aspect, rating in self.ratingsList[rIdx].items():
@@ -364,11 +369,15 @@ class LRR:
                 print("Positive Review")
             else:
                 print("Negative Review")
-            
+actual = list()
+prediction = list()
 np.seterr(all='raise')
 lrrObj = LRR()
-lrrObj.EMAlgo(maxIter=150, coverge=0.01)
+lrrObj.EMAlgo(maxIter=50, coverge=0.01)
 lrrObj.testing()
+draw()
+
+# def draw(actual, prediction):
 
 
 # In[ ]:
