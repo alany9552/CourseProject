@@ -18,7 +18,9 @@ https://github.com/biubiutang/LARA-1
 
 ## Contributors:
 Chengmin Huang - ch61@illinois.edu
+
 Xuehao Wang - xuehaow2@illinois.edu
+
 Ge Yu - gey2@illinois.edu
 
 ## Organization of the implemenataion:
