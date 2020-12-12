@@ -1,0 +1,2235 @@
+2020-12-12 17:31:19,543 Training started
+2020-12-12 17:31:19,554 initial calcLikelihood calculated, det(Sig): 0.044160705537336566
+2020-12-12 17:31:19,556 Alpha Converged : 0
+2020-12-12 17:31:19,557 Alpha calculated
+2020-12-12 17:31:19,558 Alpha Converged : 0
+2020-12-12 17:31:19,558 Alpha calculated
+2020-12-12 17:31:19,559 Alpha Converged : 0
+2020-12-12 17:31:19,559 Alpha calculated
+2020-12-12 17:31:19,560 Alpha Converged : 0
+2020-12-12 17:31:19,560 Alpha calculated
+2020-12-12 17:31:19,561 Alpha Converged : 0
+2020-12-12 17:31:19,561 Alpha calculated
+2020-12-12 17:31:19,562 Alpha Converged : 0
+2020-12-12 17:31:19,563 Alpha calculated
+2020-12-12 17:31:19,564 Alpha Converged : 0
+2020-12-12 17:31:19,564 Alpha calculated
+2020-12-12 17:31:19,565 Alpha Converged : 0
+2020-12-12 17:31:19,565 Alpha calculated
+2020-12-12 17:31:19,566 Alpha Converged : 0
+2020-12-12 17:31:19,566 Alpha calculated
+2020-12-12 17:31:19,567 Alpha Converged : 0
+2020-12-12 17:31:19,567 Alpha calculated
+2020-12-12 17:31:19,569 Alpha Converged : 0
+2020-12-12 17:31:19,569 Alpha calculated
+2020-12-12 17:31:19,570 Alpha Converged : 0
+2020-12-12 17:31:19,570 Alpha calculated
+2020-12-12 17:31:19,571 Alpha Converged : 0
+2020-12-12 17:31:19,571 Alpha calculated
+2020-12-12 17:31:19,573 Alpha Converged : 0
+2020-12-12 17:31:19,573 Alpha calculated
+2020-12-12 17:31:19,575 Alpha Converged : 0
+2020-12-12 17:31:19,575 Alpha calculated
+2020-12-12 17:31:19,575 Alpha Converged : 0
+2020-12-12 17:31:19,576 Alpha calculated
+2020-12-12 17:31:19,577 Alpha Converged : 0
+2020-12-12 17:31:19,577 Alpha calculated
+2020-12-12 17:31:19,578 Alpha Converged : 0
+2020-12-12 17:31:19,578 Alpha calculated
+2020-12-12 17:31:19,579 Alpha Converged : 0
+2020-12-12 17:31:19,579 Alpha calculated
+2020-12-12 17:31:19,580 Alpha Converged : 0
+2020-12-12 17:31:19,580 Alpha calculated
+2020-12-12 17:31:19,581 Alpha Converged : 0
+2020-12-12 17:31:19,581 Alpha calculated
+2020-12-12 17:31:19,582 Alpha Converged : 0
+2020-12-12 17:31:19,582 Alpha calculated
+2020-12-12 17:31:19,583 Alpha Converged : 0
+2020-12-12 17:31:19,583 Alpha calculated
+2020-12-12 17:31:19,584 Alpha Converged : 0
+2020-12-12 17:31:19,584 Alpha calculated
+2020-12-12 17:31:19,585 Alpha Converged : 0
+2020-12-12 17:31:19,585 Alpha calculated
+2020-12-12 17:31:19,586 Alpha Converged : 0
+2020-12-12 17:31:19,586 Alpha calculated
+2020-12-12 17:31:19,587 Alpha Converged : 0
+2020-12-12 17:31:19,587 Alpha calculated
+2020-12-12 17:31:19,588 Alpha Converged : 0
+2020-12-12 17:31:19,588 Alpha calculated
+2020-12-12 17:31:19,589 Alpha Converged : 0
+2020-12-12 17:31:19,589 Alpha calculated
+2020-12-12 17:31:19,590 Alpha Converged : 0
+2020-12-12 17:31:19,590 Alpha calculated
+2020-12-12 17:31:19,591 Alpha Converged : 0
+2020-12-12 17:31:19,591 Alpha calculated
+2020-12-12 17:31:19,592 Alpha Converged : 0
+2020-12-12 17:31:19,592 Alpha calculated
+2020-12-12 17:31:19,593 Alpha Converged : 0
+2020-12-12 17:31:19,593 Alpha calculated
+2020-12-12 17:31:19,594 Alpha Converged : 0
+2020-12-12 17:31:19,594 Alpha calculated
+2020-12-12 17:31:19,594 Alpha Converged : 0
+2020-12-12 17:31:19,595 Alpha calculated
+2020-12-12 17:31:19,595 Alpha Converged : 0
+2020-12-12 17:31:19,595 Alpha calculated
+2020-12-12 17:31:19,596 Alpha Converged : 0
+2020-12-12 17:31:19,596 Alpha calculated
+2020-12-12 17:31:19,597 Alpha Converged : 0
+2020-12-12 17:31:19,597 Alpha calculated
+2020-12-12 17:31:19,598 Alpha Converged : 0
+2020-12-12 17:31:19,598 Alpha calculated
+2020-12-12 17:31:19,598 Alpha Converged : 0
+2020-12-12 17:31:19,598 Alpha calculated
+2020-12-12 17:31:19,599 Alpha Converged : 0
+2020-12-12 17:31:19,599 Alpha calculated
+2020-12-12 17:31:19,600 Alpha Converged : 0
+2020-12-12 17:31:19,600 Alpha calculated
+2020-12-12 17:31:19,601 Alpha Converged : 0
+2020-12-12 17:31:19,602 Alpha calculated
+2020-12-12 17:31:19,603 Alpha Converged : 0
+2020-12-12 17:31:19,603 Alpha calculated
+2020-12-12 17:31:19,604 Alpha Converged : 0
+2020-12-12 17:31:19,604 Alpha calculated
+2020-12-12 17:31:19,605 Alpha Converged : 0
+2020-12-12 17:31:19,605 Alpha calculated
+2020-12-12 17:31:19,605 Alpha Converged : 0
+2020-12-12 17:31:19,606 Alpha calculated
+2020-12-12 17:31:19,606 Alpha Converged : 0
+2020-12-12 17:31:19,607 Alpha calculated
+2020-12-12 17:31:19,607 Alpha Converged : 0
+2020-12-12 17:31:19,607 Alpha calculated
+2020-12-12 17:31:19,608 Alpha Converged : 0
+2020-12-12 17:31:19,608 Alpha calculated
+2020-12-12 17:31:19,609 Alpha Converged : 0
+2020-12-12 17:31:19,609 Alpha calculated
+2020-12-12 17:31:19,610 Alpha Converged : 0
+2020-12-12 17:31:19,610 Alpha calculated
+2020-12-12 17:31:19,611 Alpha Converged : 0
+2020-12-12 17:31:19,611 Alpha calculated
+2020-12-12 17:31:19,612 Alpha Converged : 0
+2020-12-12 17:31:19,612 Alpha calculated
+2020-12-12 17:31:19,613 Alpha Converged : 0
+2020-12-12 17:31:19,613 Alpha calculated
+2020-12-12 17:31:19,614 Alpha Converged : 0
+2020-12-12 17:31:19,614 Alpha calculated
+2020-12-12 17:31:19,614 Alpha Converged : 0
+2020-12-12 17:31:19,615 Alpha calculated
+2020-12-12 17:31:19,615 Alpha Converged : 0
+2020-12-12 17:31:19,616 Alpha calculated
+2020-12-12 17:31:19,616 Alpha Converged : 0
+2020-12-12 17:31:19,616 Alpha calculated
+2020-12-12 17:31:19,617 Alpha Converged : 0
+2020-12-12 17:31:19,617 Alpha calculated
+2020-12-12 17:31:19,618 Alpha Converged : 0
+2020-12-12 17:31:19,618 Alpha calculated
+2020-12-12 17:31:19,619 Alpha Converged : 0
+2020-12-12 17:31:19,619 Alpha calculated
+2020-12-12 17:31:19,620 Alpha Converged : 0
+2020-12-12 17:31:19,620 Alpha calculated
+2020-12-12 17:31:19,621 Alpha Converged : 0
+2020-12-12 17:31:19,621 Alpha calculated
+2020-12-12 17:31:19,621 Alpha Converged : 0
+2020-12-12 17:31:19,621 Alpha calculated
+2020-12-12 17:31:19,622 Alpha Converged : 0
+2020-12-12 17:31:19,622 Alpha calculated
+2020-12-12 17:31:19,623 Alpha Converged : 0
+2020-12-12 17:31:19,623 Alpha calculated
+2020-12-12 17:31:19,624 Alpha Converged : 0
+2020-12-12 17:31:19,624 Alpha calculated
+2020-12-12 17:31:19,625 Alpha Converged : 0
+2020-12-12 17:31:19,625 Alpha calculated
+2020-12-12 17:31:19,625 Alpha Converged : 0
+2020-12-12 17:31:19,626 Alpha calculated
+2020-12-12 17:31:19,626 Alpha Converged : 0
+2020-12-12 17:31:19,626 Alpha calculated
+2020-12-12 17:31:19,627 Alpha Converged : 0
+2020-12-12 17:31:19,627 Alpha calculated
+2020-12-12 17:31:19,628 Alpha Converged : 0
+2020-12-12 17:31:19,628 Alpha calculated
+2020-12-12 17:31:19,629 Alpha Converged : 0
+2020-12-12 17:31:19,629 Alpha calculated
+2020-12-12 17:31:19,629 Alpha Converged : 0
+2020-12-12 17:31:19,630 Alpha calculated
+2020-12-12 17:31:19,630 Alpha Converged : 0
+2020-12-12 17:31:19,630 Alpha calculated
+2020-12-12 17:31:19,631 Alpha Converged : 0
+2020-12-12 17:31:19,631 Alpha calculated
+2020-12-12 17:31:19,632 Alpha Converged : 0
+2020-12-12 17:31:19,632 Alpha calculated
+2020-12-12 17:31:19,633 Alpha Converged : 0
+2020-12-12 17:31:19,633 Alpha calculated
+2020-12-12 17:31:19,633 Alpha Converged : 0
+2020-12-12 17:31:19,634 Alpha calculated
+2020-12-12 17:31:19,634 Alpha Converged : 0
+2020-12-12 17:31:19,634 Alpha calculated
+2020-12-12 17:31:19,635 Alpha Converged : 0
+2020-12-12 17:31:19,635 Alpha calculated
+2020-12-12 17:31:19,636 Alpha Converged : 0
+2020-12-12 17:31:19,636 Alpha calculated
+2020-12-12 17:31:19,637 Alpha Converged : 0
+2020-12-12 17:31:19,637 Alpha calculated
+2020-12-12 17:31:19,637 Alpha Converged : 0
+2020-12-12 17:31:19,637 Alpha calculated
+2020-12-12 17:31:19,638 Alpha Converged : 0
+2020-12-12 17:31:19,638 Alpha calculated
+2020-12-12 17:31:19,639 Alpha Converged : 0
+2020-12-12 17:31:19,639 Alpha calculated
+2020-12-12 17:31:19,640 Alpha Converged : 0
+2020-12-12 17:31:19,640 Alpha calculated
+2020-12-12 17:31:19,640 Alpha Converged : 0
+2020-12-12 17:31:19,641 Alpha calculated
+2020-12-12 17:31:19,641 Alpha Converged : 0
+2020-12-12 17:31:19,641 Alpha calculated
+2020-12-12 17:31:19,642 Alpha Converged : 0
+2020-12-12 17:31:19,642 Alpha calculated
+2020-12-12 17:31:19,643 Alpha Converged : 0
+2020-12-12 17:31:19,643 Alpha calculated
+2020-12-12 17:31:19,644 Alpha Converged : 0
+2020-12-12 17:31:19,644 Alpha calculated
+2020-12-12 17:31:19,644 Alpha Converged : 0
+2020-12-12 17:31:19,644 Alpha calculated
+2020-12-12 17:31:19,645 Alpha Converged : 0
+2020-12-12 17:31:19,645 Alpha calculated
+2020-12-12 17:31:19,646 Alpha Converged : 0
+2020-12-12 17:31:19,646 Alpha calculated
+2020-12-12 17:31:19,647 Alpha Converged : 0
+2020-12-12 17:31:19,647 Alpha calculated
+2020-12-12 17:31:19,647 Alpha Converged : 0
+2020-12-12 17:31:19,647 Alpha calculated
+2020-12-12 17:31:19,648 Alpha Converged : 0
+2020-12-12 17:31:19,648 Alpha calculated
+2020-12-12 17:31:19,649 Alpha Converged : 0
+2020-12-12 17:31:19,649 Alpha calculated
+2020-12-12 17:31:19,650 Alpha Converged : 0
+2020-12-12 17:31:19,650 Alpha calculated
+2020-12-12 17:31:19,650 Alpha Converged : 0
+2020-12-12 17:31:19,651 Alpha calculated
+2020-12-12 17:31:19,651 Alpha Converged : 0
+2020-12-12 17:31:19,651 Alpha calculated
+2020-12-12 17:31:19,652 Alpha Converged : 0
+2020-12-12 17:31:19,652 Alpha calculated
+2020-12-12 17:31:19,653 Alpha Converged : 0
+2020-12-12 17:31:19,653 Alpha calculated
+2020-12-12 17:31:19,654 Alpha Converged : 0
+2020-12-12 17:31:19,654 Alpha calculated
+2020-12-12 17:31:19,656 Alpha Converged : 0
+2020-12-12 17:31:19,656 Alpha calculated
+2020-12-12 17:31:19,656 EStep completed
+2020-12-12 17:31:19,656 Mu calculated
+2020-12-12 17:31:19,657 Sigma calculated : -9.414927985680532e-07 
+2020-12-12 17:31:19,658 Exception in alphaLikelihood: -0.000001
+2020-12-12 17:31:19,658 alphaLikelihood calculated
+2020-12-12 17:31:39,061 Beta converged : 0
+2020-12-12 17:31:39,062 Beta calculated
+2020-12-12 17:31:39,066 dataLikelihood calculated
+2020-12-12 17:31:39,067 Deltasq calculated
+2020-12-12 17:31:39,067 MStep completed
+2020-12-12 17:31:39,067 Alpha Converged : 0
+2020-12-12 17:31:39,068 Alpha calculated
+2020-12-12 17:31:39,069 Alpha Converged : 0
+2020-12-12 17:31:39,069 Alpha calculated
+2020-12-12 17:31:39,071 Alpha Converged : 0
+2020-12-12 17:31:39,071 Alpha calculated
+2020-12-12 17:31:39,071 Alpha Converged : 0
+2020-12-12 17:31:39,071 Alpha calculated
+2020-12-12 17:31:39,072 Alpha Converged : 0
+2020-12-12 17:31:39,072 Alpha calculated
+2020-12-12 17:31:39,072 Alpha Converged : 0
+2020-12-12 17:31:39,073 Alpha calculated
+2020-12-12 17:31:39,074 Alpha Converged : 0
+2020-12-12 17:31:39,074 Alpha calculated
+2020-12-12 17:31:39,075 Alpha Converged : 0
+2020-12-12 17:31:39,075 Alpha calculated
+2020-12-12 17:31:39,075 Alpha Converged : 0
+2020-12-12 17:31:39,075 Alpha calculated
+2020-12-12 17:31:39,076 Alpha Converged : 0
+2020-12-12 17:31:39,076 Alpha calculated
+2020-12-12 17:31:39,077 Alpha Converged : 0
+2020-12-12 17:31:39,077 Alpha calculated
+2020-12-12 17:31:39,078 Alpha Converged : 0
+2020-12-12 17:31:39,078 Alpha calculated
+2020-12-12 17:31:39,078 Alpha Converged : 0
+2020-12-12 17:31:39,078 Alpha calculated
+2020-12-12 17:31:39,079 Alpha Converged : 0
+2020-12-12 17:31:39,079 Alpha calculated
+2020-12-12 17:31:39,080 Alpha Converged : 0
+2020-12-12 17:31:39,080 Alpha calculated
+2020-12-12 17:31:39,081 Alpha Converged : 0
+2020-12-12 17:31:39,082 Alpha calculated
+2020-12-12 17:31:39,082 Alpha Converged : 0
+2020-12-12 17:31:39,082 Alpha calculated
+2020-12-12 17:31:39,082 Alpha Converged : 0
+2020-12-12 17:31:39,083 Alpha calculated
+2020-12-12 17:31:39,083 Alpha Converged : 0
+2020-12-12 17:31:39,083 Alpha calculated
+2020-12-12 17:31:39,084 Alpha Converged : 0
+2020-12-12 17:31:39,084 Alpha calculated
+2020-12-12 17:31:39,084 Alpha Converged : 0
+2020-12-12 17:31:39,084 Alpha calculated
+2020-12-12 17:31:39,085 Alpha Converged : 0
+2020-12-12 17:31:39,085 Alpha calculated
+2020-12-12 17:31:39,085 Alpha Converged : 0
+2020-12-12 17:31:39,085 Alpha calculated
+2020-12-12 17:31:39,086 Alpha Converged : 0
+2020-12-12 17:31:39,086 Alpha calculated
+2020-12-12 17:31:39,087 Alpha Converged : 0
+2020-12-12 17:31:39,087 Alpha calculated
+2020-12-12 17:31:39,088 Alpha Converged : 0
+2020-12-12 17:31:39,088 Alpha calculated
+2020-12-12 17:31:39,088 Alpha Converged : 0
+2020-12-12 17:31:39,088 Alpha calculated
+2020-12-12 17:31:39,089 Alpha Converged : 0
+2020-12-12 17:31:39,089 Alpha calculated
+2020-12-12 17:31:39,089 Alpha Converged : 0
+2020-12-12 17:31:39,089 Alpha calculated
+2020-12-12 17:31:39,090 Alpha Converged : 0
+2020-12-12 17:31:39,090 Alpha calculated
+2020-12-12 17:31:39,090 Alpha Converged : 0
+2020-12-12 17:31:39,090 Alpha calculated
+2020-12-12 17:31:39,091 Alpha Converged : 0
+2020-12-12 17:31:39,091 Alpha calculated
+2020-12-12 17:31:39,091 Alpha Converged : 0
+2020-12-12 17:31:39,091 Alpha calculated
+2020-12-12 17:31:39,092 Alpha Converged : 0
+2020-12-12 17:31:39,092 Alpha calculated
+2020-12-12 17:31:39,092 Alpha Converged : 0
+2020-12-12 17:31:39,092 Alpha calculated
+2020-12-12 17:31:39,093 Alpha Converged : 0
+2020-12-12 17:31:39,093 Alpha calculated
+2020-12-12 17:31:39,093 Alpha Converged : 0
+2020-12-12 17:31:39,093 Alpha calculated
+2020-12-12 17:31:39,094 Alpha Converged : 0
+2020-12-12 17:31:39,094 Alpha calculated
+2020-12-12 17:31:39,094 Alpha Converged : 0
+2020-12-12 17:31:39,094 Alpha calculated
+2020-12-12 17:31:39,096 Alpha Converged : 0
+2020-12-12 17:31:39,096 Alpha calculated
+2020-12-12 17:31:39,097 Alpha Converged : 0
+2020-12-12 17:31:39,097 Alpha calculated
+2020-12-12 17:31:39,097 Alpha Converged : 0
+2020-12-12 17:31:39,097 Alpha calculated
+2020-12-12 17:31:39,098 Alpha Converged : 0
+2020-12-12 17:31:39,098 Alpha calculated
+2020-12-12 17:31:39,099 Alpha Converged : 0
+2020-12-12 17:31:39,099 Alpha calculated
+2020-12-12 17:31:39,100 Alpha Converged : 0
+2020-12-12 17:31:39,101 Alpha calculated
+2020-12-12 17:31:39,101 Alpha Converged : 0
+2020-12-12 17:31:39,101 Alpha calculated
+2020-12-12 17:31:39,101 Alpha Converged : 0
+2020-12-12 17:31:39,102 Alpha calculated
+2020-12-12 17:31:39,102 Alpha Converged : 0
+2020-12-12 17:31:39,102 Alpha calculated
+2020-12-12 17:31:39,103 Alpha Converged : 0
+2020-12-12 17:31:39,103 Alpha calculated
+2020-12-12 17:31:39,104 Alpha Converged : 0
+2020-12-12 17:31:39,104 Alpha calculated
+2020-12-12 17:31:39,104 Alpha Converged : 0
+2020-12-12 17:31:39,104 Alpha calculated
+2020-12-12 17:31:39,105 Alpha Converged : 0
+2020-12-12 17:31:39,105 Alpha calculated
+2020-12-12 17:31:39,105 Alpha Converged : 0
+2020-12-12 17:31:39,105 Alpha calculated
+2020-12-12 17:31:39,106 Alpha Converged : 0
+2020-12-12 17:31:39,106 Alpha calculated
+2020-12-12 17:31:39,106 Alpha Converged : 0
+2020-12-12 17:31:39,107 Alpha calculated
+2020-12-12 17:31:39,107 Alpha Converged : 0
+2020-12-12 17:31:39,107 Alpha calculated
+2020-12-12 17:31:39,107 Alpha Converged : 0
+2020-12-12 17:31:39,108 Alpha calculated
+2020-12-12 17:31:39,108 Alpha Converged : 0
+2020-12-12 17:31:39,108 Alpha calculated
+2020-12-12 17:31:39,108 Alpha Converged : 0
+2020-12-12 17:31:39,109 Alpha calculated
+2020-12-12 17:31:39,110 Alpha Converged : 0
+2020-12-12 17:31:39,110 Alpha calculated
+2020-12-12 17:31:39,111 Alpha Converged : 0
+2020-12-12 17:31:39,111 Alpha calculated
+2020-12-12 17:31:39,111 Alpha Converged : 0
+2020-12-12 17:31:39,111 Alpha calculated
+2020-12-12 17:31:39,112 Alpha Converged : 0
+2020-12-12 17:31:39,112 Alpha calculated
+2020-12-12 17:31:39,112 Alpha Converged : 0
+2020-12-12 17:31:39,112 Alpha calculated
+2020-12-12 17:31:39,113 Alpha Converged : 0
+2020-12-12 17:31:39,113 Alpha calculated
+2020-12-12 17:31:39,114 Alpha Converged : 0
+2020-12-12 17:31:39,114 Alpha calculated
+2020-12-12 17:31:39,114 Alpha Converged : 0
+2020-12-12 17:31:39,114 Alpha calculated
+2020-12-12 17:31:39,115 Alpha Converged : 0
+2020-12-12 17:31:39,115 Alpha calculated
+2020-12-12 17:31:39,117 Alpha Converged : 0
+2020-12-12 17:31:39,117 Alpha calculated
+2020-12-12 17:31:39,117 Alpha Converged : 0
+2020-12-12 17:31:39,118 Alpha calculated
+2020-12-12 17:31:39,118 Alpha Converged : 0
+2020-12-12 17:31:39,118 Alpha calculated
+2020-12-12 17:31:39,119 Alpha Converged : 0
+2020-12-12 17:31:39,119 Alpha calculated
+2020-12-12 17:31:39,119 Alpha Converged : 0
+2020-12-12 17:31:39,120 Alpha calculated
+2020-12-12 17:31:39,121 Alpha Converged : 0
+2020-12-12 17:31:39,121 Alpha calculated
+2020-12-12 17:31:39,121 Alpha Converged : 0
+2020-12-12 17:31:39,121 Alpha calculated
+2020-12-12 17:31:39,122 Alpha Converged : 0
+2020-12-12 17:31:39,122 Alpha calculated
+2020-12-12 17:31:39,123 Alpha Converged : 0
+2020-12-12 17:31:39,123 Alpha calculated
+2020-12-12 17:31:39,124 Alpha Converged : 0
+2020-12-12 17:31:39,124 Alpha calculated
+2020-12-12 17:31:39,124 Alpha Converged : 0
+2020-12-12 17:31:39,124 Alpha calculated
+2020-12-12 17:31:39,125 Alpha Converged : 0
+2020-12-12 17:31:39,126 Alpha calculated
+2020-12-12 17:31:39,126 Alpha Converged : 0
+2020-12-12 17:31:39,126 Alpha calculated
+2020-12-12 17:31:39,127 Alpha Converged : 0
+2020-12-12 17:31:39,127 Alpha calculated
+2020-12-12 17:31:39,128 Alpha Converged : 0
+2020-12-12 17:31:39,128 Alpha calculated
+2020-12-12 17:31:39,128 Alpha Converged : 0
+2020-12-12 17:31:39,128 Alpha calculated
+2020-12-12 17:31:39,129 Alpha Converged : 0
+2020-12-12 17:31:39,129 Alpha calculated
+2020-12-12 17:31:39,130 Alpha Converged : 0
+2020-12-12 17:31:39,130 Alpha calculated
+2020-12-12 17:31:39,130 Alpha Converged : 0
+2020-12-12 17:31:39,130 Alpha calculated
+2020-12-12 17:31:39,133 Alpha Converged : 0
+2020-12-12 17:31:39,133 Alpha calculated
+2020-12-12 17:31:39,133 Alpha Converged : 0
+2020-12-12 17:31:39,133 Alpha calculated
+2020-12-12 17:31:39,134 Alpha Converged : 0
+2020-12-12 17:31:39,134 Alpha calculated
+2020-12-12 17:31:39,134 Alpha Converged : 0
+2020-12-12 17:31:39,134 Alpha calculated
+2020-12-12 17:31:39,135 Alpha Converged : 0
+2020-12-12 17:31:39,135 Alpha calculated
+2020-12-12 17:31:39,136 Alpha Converged : 0
+2020-12-12 17:31:39,136 Alpha calculated
+2020-12-12 17:31:39,136 Alpha Converged : 0
+2020-12-12 17:31:39,136 Alpha calculated
+2020-12-12 17:31:39,137 Alpha Converged : 0
+2020-12-12 17:31:39,137 Alpha calculated
+2020-12-12 17:31:39,138 Alpha Converged : 0
+2020-12-12 17:31:39,138 Alpha calculated
+2020-12-12 17:31:39,139 Alpha Converged : 0
+2020-12-12 17:31:39,139 Alpha calculated
+2020-12-12 17:31:39,140 Alpha Converged : 0
+2020-12-12 17:31:39,140 Alpha calculated
+2020-12-12 17:31:39,141 Alpha Converged : 0
+2020-12-12 17:31:39,141 Alpha calculated
+2020-12-12 17:31:39,141 Alpha Converged : 0
+2020-12-12 17:31:39,141 Alpha calculated
+2020-12-12 17:31:39,142 Alpha Converged : 0
+2020-12-12 17:31:39,142 Alpha calculated
+2020-12-12 17:31:39,142 Alpha Converged : 0
+2020-12-12 17:31:39,142 Alpha calculated
+2020-12-12 17:31:39,143 Alpha Converged : 0
+2020-12-12 17:31:39,143 Alpha calculated
+2020-12-12 17:31:39,143 Alpha Converged : 0
+2020-12-12 17:31:39,143 Alpha calculated
+2020-12-12 17:31:39,144 Alpha Converged : 0
+2020-12-12 17:31:39,144 Alpha calculated
+2020-12-12 17:31:39,144 Alpha Converged : 0
+2020-12-12 17:31:39,145 Alpha calculated
+2020-12-12 17:31:39,145 Alpha Converged : 0
+2020-12-12 17:31:39,145 Alpha calculated
+2020-12-12 17:31:39,145 EStep completed
+2020-12-12 17:31:39,145 Mu calculated
+2020-12-12 17:31:39,146 Sigma calculated : -5.870717138039742e-09 
+2020-12-12 17:31:39,147 Exception in alphaLikelihood: -0.000000
+2020-12-12 17:31:39,147 alphaLikelihood calculated
+2020-12-12 17:31:55,790 Beta converged : 0
+2020-12-12 17:31:55,790 Beta calculated
+2020-12-12 17:31:55,794 dataLikelihood calculated
+2020-12-12 17:31:55,795 Deltasq calculated
+2020-12-12 17:31:55,795 MStep completed
+2020-12-12 17:31:55,796 Alpha Converged : 0
+2020-12-12 17:31:55,796 Alpha calculated
+2020-12-12 17:31:55,796 Alpha Converged : 0
+2020-12-12 17:31:55,796 Alpha calculated
+2020-12-12 17:31:55,797 Alpha Converged : 0
+2020-12-12 17:31:55,797 Alpha calculated
+2020-12-12 17:31:55,797 Alpha Converged : 0
+2020-12-12 17:31:55,798 Alpha calculated
+2020-12-12 17:31:55,798 Alpha Converged : 0
+2020-12-12 17:31:55,798 Alpha calculated
+2020-12-12 17:31:55,799 Alpha Converged : 0
+2020-12-12 17:31:55,799 Alpha calculated
+2020-12-12 17:31:55,800 Alpha Converged : 0
+2020-12-12 17:31:55,800 Alpha calculated
+2020-12-12 17:31:55,800 Alpha Converged : 0
+2020-12-12 17:31:55,800 Alpha calculated
+2020-12-12 17:31:55,801 Alpha Converged : 0
+2020-12-12 17:31:55,801 Alpha calculated
+2020-12-12 17:31:55,801 Alpha Converged : 0
+2020-12-12 17:31:55,801 Alpha calculated
+2020-12-12 17:31:55,802 Alpha Converged : 0
+2020-12-12 17:31:55,802 Alpha calculated
+2020-12-12 17:31:55,802 Alpha Converged : 0
+2020-12-12 17:31:55,802 Alpha calculated
+2020-12-12 17:31:55,803 Alpha Converged : 0
+2020-12-12 17:31:55,803 Alpha calculated
+2020-12-12 17:31:55,803 Alpha Converged : 0
+2020-12-12 17:31:55,803 Alpha calculated
+2020-12-12 17:31:55,804 Alpha Converged : 0
+2020-12-12 17:31:55,804 Alpha calculated
+2020-12-12 17:31:55,805 Alpha Converged : 0
+2020-12-12 17:31:55,805 Alpha calculated
+2020-12-12 17:31:55,805 Alpha Converged : 0
+2020-12-12 17:31:55,805 Alpha calculated
+2020-12-12 17:31:55,806 Alpha Converged : 0
+2020-12-12 17:31:55,806 Alpha calculated
+2020-12-12 17:31:55,806 Alpha Converged : 0
+2020-12-12 17:31:55,806 Alpha calculated
+2020-12-12 17:31:55,807 Alpha Converged : 0
+2020-12-12 17:31:55,807 Alpha calculated
+2020-12-12 17:31:55,807 Alpha Converged : 0
+2020-12-12 17:31:55,807 Alpha calculated
+2020-12-12 17:31:55,807 Alpha Converged : 0
+2020-12-12 17:31:55,808 Alpha calculated
+2020-12-12 17:31:55,808 Alpha Converged : 0
+2020-12-12 17:31:55,808 Alpha calculated
+2020-12-12 17:31:55,809 Alpha Converged : 0
+2020-12-12 17:31:55,809 Alpha calculated
+2020-12-12 17:31:55,809 Alpha Converged : 0
+2020-12-12 17:31:55,809 Alpha calculated
+2020-12-12 17:31:55,810 Alpha Converged : 0
+2020-12-12 17:31:55,810 Alpha calculated
+2020-12-12 17:31:55,810 Alpha Converged : 0
+2020-12-12 17:31:55,810 Alpha calculated
+2020-12-12 17:31:55,811 Alpha Converged : 0
+2020-12-12 17:31:55,811 Alpha calculated
+2020-12-12 17:31:55,811 Alpha Converged : 0
+2020-12-12 17:31:55,811 Alpha calculated
+2020-12-12 17:31:55,812 Alpha Converged : 0
+2020-12-12 17:31:55,812 Alpha calculated
+2020-12-12 17:31:55,812 Alpha Converged : 0
+2020-12-12 17:31:55,812 Alpha calculated
+2020-12-12 17:31:55,813 Alpha Converged : 0
+2020-12-12 17:31:55,813 Alpha calculated
+2020-12-12 17:31:55,813 Alpha Converged : 0
+2020-12-12 17:31:55,813 Alpha calculated
+2020-12-12 17:31:55,814 Alpha Converged : 0
+2020-12-12 17:31:55,814 Alpha calculated
+2020-12-12 17:31:55,814 Alpha Converged : 0
+2020-12-12 17:31:55,814 Alpha calculated
+2020-12-12 17:31:55,815 Alpha Converged : 0
+2020-12-12 17:31:55,815 Alpha calculated
+2020-12-12 17:31:55,815 Alpha Converged : 0
+2020-12-12 17:31:55,815 Alpha calculated
+2020-12-12 17:31:55,816 Alpha Converged : 0
+2020-12-12 17:31:55,816 Alpha calculated
+2020-12-12 17:31:55,816 Alpha Converged : 0
+2020-12-12 17:31:55,816 Alpha calculated
+2020-12-12 17:31:55,817 Alpha Converged : 0
+2020-12-12 17:31:55,817 Alpha calculated
+2020-12-12 17:31:55,817 Alpha Converged : 0
+2020-12-12 17:31:55,817 Alpha calculated
+2020-12-12 17:31:55,818 Alpha Converged : 0
+2020-12-12 17:31:55,818 Alpha calculated
+2020-12-12 17:31:55,818 Alpha Converged : 0
+2020-12-12 17:31:55,819 Alpha calculated
+2020-12-12 17:31:55,819 Alpha Converged : 0
+2020-12-12 17:31:55,819 Alpha calculated
+2020-12-12 17:31:55,820 Alpha Converged : 0
+2020-12-12 17:31:55,820 Alpha calculated
+2020-12-12 17:31:55,821 Alpha Converged : 0
+2020-12-12 17:31:55,822 Alpha calculated
+2020-12-12 17:31:55,822 Alpha Converged : 0
+2020-12-12 17:31:55,822 Alpha calculated
+2020-12-12 17:31:55,823 Alpha Converged : 0
+2020-12-12 17:31:55,823 Alpha calculated
+2020-12-12 17:31:55,823 Alpha Converged : 0
+2020-12-12 17:31:55,823 Alpha calculated
+2020-12-12 17:31:55,824 Alpha Converged : 0
+2020-12-12 17:31:55,824 Alpha calculated
+2020-12-12 17:31:55,824 Alpha Converged : 0
+2020-12-12 17:31:55,824 Alpha calculated
+2020-12-12 17:31:55,825 Alpha Converged : 0
+2020-12-12 17:31:55,825 Alpha calculated
+2020-12-12 17:31:55,826 Alpha Converged : 0
+2020-12-12 17:31:55,826 Alpha calculated
+2020-12-12 17:31:55,827 Alpha Converged : 0
+2020-12-12 17:31:55,827 Alpha calculated
+2020-12-12 17:31:55,828 Alpha Converged : 0
+2020-12-12 17:31:55,828 Alpha calculated
+2020-12-12 17:31:55,829 Alpha Converged : 0
+2020-12-12 17:31:55,829 Alpha calculated
+2020-12-12 17:31:55,830 Alpha Converged : 0
+2020-12-12 17:31:55,830 Alpha calculated
+2020-12-12 17:31:55,831 Alpha Converged : 0
+2020-12-12 17:31:55,831 Alpha calculated
+2020-12-12 17:31:55,832 Alpha Converged : 0
+2020-12-12 17:31:55,832 Alpha calculated
+2020-12-12 17:31:55,833 Alpha Converged : 0
+2020-12-12 17:31:55,833 Alpha calculated
+2020-12-12 17:31:55,834 Alpha Converged : 0
+2020-12-12 17:31:55,834 Alpha calculated
+2020-12-12 17:31:55,835 Alpha Converged : 0
+2020-12-12 17:31:55,835 Alpha calculated
+2020-12-12 17:31:55,835 Alpha Converged : 0
+2020-12-12 17:31:55,835 Alpha calculated
+2020-12-12 17:31:55,836 Alpha Converged : 0
+2020-12-12 17:31:55,836 Alpha calculated
+2020-12-12 17:31:55,836 Alpha Converged : 0
+2020-12-12 17:31:55,836 Alpha calculated
+2020-12-12 17:31:55,837 Alpha Converged : 0
+2020-12-12 17:31:55,837 Alpha calculated
+2020-12-12 17:31:55,837 Alpha Converged : 0
+2020-12-12 17:31:55,837 Alpha calculated
+2020-12-12 17:31:55,838 Alpha Converged : 0
+2020-12-12 17:31:55,838 Alpha calculated
+2020-12-12 17:31:55,838 Alpha Converged : 0
+2020-12-12 17:31:55,839 Alpha calculated
+2020-12-12 17:31:55,839 Alpha Converged : 0
+2020-12-12 17:31:55,839 Alpha calculated
+2020-12-12 17:31:55,840 Alpha Converged : 0
+2020-12-12 17:31:55,840 Alpha calculated
+2020-12-12 17:31:55,840 Alpha Converged : 0
+2020-12-12 17:31:55,840 Alpha calculated
+2020-12-12 17:31:55,841 Alpha Converged : 0
+2020-12-12 17:31:55,841 Alpha calculated
+2020-12-12 17:31:55,841 Alpha Converged : 0
+2020-12-12 17:31:55,841 Alpha calculated
+2020-12-12 17:31:55,842 Alpha Converged : 0
+2020-12-12 17:31:55,842 Alpha calculated
+2020-12-12 17:31:55,842 Alpha Converged : 0
+2020-12-12 17:31:55,843 Alpha calculated
+2020-12-12 17:31:55,843 Alpha Converged : 0
+2020-12-12 17:31:55,844 Alpha calculated
+2020-12-12 17:31:55,844 Alpha Converged : 0
+2020-12-12 17:31:55,844 Alpha calculated
+2020-12-12 17:31:55,845 Alpha Converged : 0
+2020-12-12 17:31:55,845 Alpha calculated
+2020-12-12 17:31:55,846 Alpha Converged : 0
+2020-12-12 17:31:55,846 Alpha calculated
+2020-12-12 17:31:55,847 Alpha Converged : 0
+2020-12-12 17:31:55,847 Alpha calculated
+2020-12-12 17:31:55,848 Alpha Converged : 0
+2020-12-12 17:31:55,848 Alpha calculated
+2020-12-12 17:31:55,849 Alpha Converged : 0
+2020-12-12 17:31:55,849 Alpha calculated
+2020-12-12 17:31:55,850 Alpha Converged : 0
+2020-12-12 17:31:55,850 Alpha calculated
+2020-12-12 17:31:55,850 Alpha Converged : 0
+2020-12-12 17:31:55,850 Alpha calculated
+2020-12-12 17:31:55,851 Alpha Converged : 0
+2020-12-12 17:31:55,851 Alpha calculated
+2020-12-12 17:31:55,852 Alpha Converged : 0
+2020-12-12 17:31:55,852 Alpha calculated
+2020-12-12 17:31:55,852 Alpha Converged : 0
+2020-12-12 17:31:55,852 Alpha calculated
+2020-12-12 17:31:55,853 Alpha Converged : 0
+2020-12-12 17:31:55,853 Alpha calculated
+2020-12-12 17:31:55,854 Alpha Converged : 0
+2020-12-12 17:31:55,854 Alpha calculated
+2020-12-12 17:31:55,854 Alpha Converged : 0
+2020-12-12 17:31:55,854 Alpha calculated
+2020-12-12 17:31:55,855 Alpha Converged : 0
+2020-12-12 17:31:55,855 Alpha calculated
+2020-12-12 17:31:55,856 Alpha Converged : 0
+2020-12-12 17:31:55,856 Alpha calculated
+2020-12-12 17:31:55,857 Alpha Converged : 0
+2020-12-12 17:31:55,857 Alpha calculated
+2020-12-12 17:31:55,858 Alpha Converged : 0
+2020-12-12 17:31:55,858 Alpha calculated
+2020-12-12 17:31:55,859 Alpha Converged : 0
+2020-12-12 17:31:55,859 Alpha calculated
+2020-12-12 17:31:55,859 Alpha Converged : 0
+2020-12-12 17:31:55,859 Alpha calculated
+2020-12-12 17:31:55,860 Alpha Converged : 0
+2020-12-12 17:31:55,860 Alpha calculated
+2020-12-12 17:31:55,861 Alpha Converged : 0
+2020-12-12 17:31:55,861 Alpha calculated
+2020-12-12 17:31:55,861 Alpha Converged : 0
+2020-12-12 17:31:55,861 Alpha calculated
+2020-12-12 17:31:55,862 Alpha Converged : 0
+2020-12-12 17:31:55,862 Alpha calculated
+2020-12-12 17:31:55,862 Alpha Converged : 0
+2020-12-12 17:31:55,862 Alpha calculated
+2020-12-12 17:31:55,863 Alpha Converged : 0
+2020-12-12 17:31:55,863 Alpha calculated
+2020-12-12 17:31:55,864 Alpha Converged : 0
+2020-12-12 17:31:55,864 Alpha calculated
+2020-12-12 17:31:55,866 Alpha Converged : 0
+2020-12-12 17:31:55,866 Alpha calculated
+2020-12-12 17:31:55,866 Alpha Converged : 0
+2020-12-12 17:31:55,867 Alpha calculated
+2020-12-12 17:31:55,867 Alpha Converged : 0
+2020-12-12 17:31:55,867 Alpha calculated
+2020-12-12 17:31:55,867 EStep completed
+2020-12-12 17:31:55,867 Mu calculated
+2020-12-12 17:31:55,869 Sigma calculated : 0.3847624971363048 
+2020-12-12 17:31:55,870 alphaLikelihood calculated
+2020-12-12 17:31:56,741 Beta converged : 2
+2020-12-12 17:31:56,742 Beta calculated
+2020-12-12 17:31:56,746 dataLikelihood calculated
+2020-12-12 17:31:56,747 Deltasq calculated
+2020-12-12 17:31:56,747 MStep completed
+2020-12-12 17:31:56,747 Alpha Converged : 0
+2020-12-12 17:31:56,748 Alpha calculated
+2020-12-12 17:31:56,749 Alpha Converged : 0
+2020-12-12 17:31:56,749 Alpha calculated
+2020-12-12 17:31:56,750 Alpha Converged : 0
+2020-12-12 17:31:56,750 Alpha calculated
+2020-12-12 17:31:56,750 Alpha Converged : 0
+2020-12-12 17:31:56,750 Alpha calculated
+2020-12-12 17:31:56,751 Alpha Converged : 0
+2020-12-12 17:31:56,751 Alpha calculated
+2020-12-12 17:31:56,752 Alpha Converged : 0
+2020-12-12 17:31:56,752 Alpha calculated
+2020-12-12 17:31:56,752 Alpha Converged : 0
+2020-12-12 17:31:56,752 Alpha calculated
+2020-12-12 17:31:56,753 Alpha Converged : 0
+2020-12-12 17:31:56,753 Alpha calculated
+2020-12-12 17:31:56,754 Alpha Converged : 0
+2020-12-12 17:31:56,754 Alpha calculated
+2020-12-12 17:31:56,754 Alpha Converged : 0
+2020-12-12 17:31:56,754 Alpha calculated
+2020-12-12 17:31:56,755 Alpha Converged : 0
+2020-12-12 17:31:56,755 Alpha calculated
+2020-12-12 17:31:56,756 Alpha Converged : 0
+2020-12-12 17:31:56,756 Alpha calculated
+2020-12-12 17:31:56,756 Alpha Converged : 0
+2020-12-12 17:31:56,756 Alpha calculated
+2020-12-12 17:31:56,757 Alpha Converged : 0
+2020-12-12 17:31:56,757 Alpha calculated
+2020-12-12 17:31:56,758 Alpha Converged : 0
+2020-12-12 17:31:56,758 Alpha calculated
+2020-12-12 17:31:56,758 Alpha Converged : 0
+2020-12-12 17:31:56,758 Alpha calculated
+2020-12-12 17:31:56,759 Alpha Converged : 0
+2020-12-12 17:31:56,759 Alpha calculated
+2020-12-12 17:31:56,760 Alpha Converged : 0
+2020-12-12 17:31:56,760 Alpha calculated
+2020-12-12 17:31:56,760 Alpha Converged : 0
+2020-12-12 17:31:56,760 Alpha calculated
+2020-12-12 17:31:56,761 Alpha Converged : 0
+2020-12-12 17:31:56,761 Alpha calculated
+2020-12-12 17:31:56,762 Alpha Converged : 0
+2020-12-12 17:31:56,762 Alpha calculated
+2020-12-12 17:31:56,762 Alpha Converged : 0
+2020-12-12 17:31:56,762 Alpha calculated
+2020-12-12 17:31:56,763 Alpha Converged : 0
+2020-12-12 17:31:56,763 Alpha calculated
+2020-12-12 17:31:56,764 Alpha Converged : 0
+2020-12-12 17:31:56,764 Alpha calculated
+2020-12-12 17:31:56,764 Alpha Converged : 0
+2020-12-12 17:31:56,764 Alpha calculated
+2020-12-12 17:31:56,765 Alpha Converged : 0
+2020-12-12 17:31:56,765 Alpha calculated
+2020-12-12 17:31:56,766 Alpha Converged : 0
+2020-12-12 17:31:56,766 Alpha calculated
+2020-12-12 17:31:56,767 Alpha Converged : 0
+2020-12-12 17:31:56,767 Alpha calculated
+2020-12-12 17:31:56,767 Alpha Converged : 0
+2020-12-12 17:31:56,767 Alpha calculated
+2020-12-12 17:31:56,768 Alpha Converged : 0
+2020-12-12 17:31:56,768 Alpha calculated
+2020-12-12 17:31:56,769 Alpha Converged : 0
+2020-12-12 17:31:56,769 Alpha calculated
+2020-12-12 17:31:56,769 Alpha Converged : 0
+2020-12-12 17:31:56,769 Alpha calculated
+2020-12-12 17:31:56,770 Alpha Converged : 0
+2020-12-12 17:31:56,770 Alpha calculated
+2020-12-12 17:31:56,770 Alpha Converged : 0
+2020-12-12 17:31:56,771 Alpha calculated
+2020-12-12 17:31:56,771 Alpha Converged : 0
+2020-12-12 17:31:56,771 Alpha calculated
+2020-12-12 17:31:56,772 Alpha Converged : 0
+2020-12-12 17:31:56,772 Alpha calculated
+2020-12-12 17:31:56,772 Alpha Converged : 0
+2020-12-12 17:31:56,773 Alpha calculated
+2020-12-12 17:31:56,773 Alpha Converged : 0
+2020-12-12 17:31:56,773 Alpha calculated
+2020-12-12 17:31:56,774 Alpha Converged : 0
+2020-12-12 17:31:56,774 Alpha calculated
+2020-12-12 17:31:56,775 Alpha Converged : 0
+2020-12-12 17:31:56,775 Alpha calculated
+2020-12-12 17:31:56,775 Alpha Converged : 0
+2020-12-12 17:31:56,775 Alpha calculated
+2020-12-12 17:31:56,776 Alpha Converged : 0
+2020-12-12 17:31:56,776 Alpha calculated
+2020-12-12 17:31:56,777 Alpha Converged : 0
+2020-12-12 17:31:56,777 Alpha calculated
+2020-12-12 17:31:56,777 Alpha Converged : 0
+2020-12-12 17:31:56,777 Alpha calculated
+2020-12-12 17:31:56,778 Alpha Converged : 0
+2020-12-12 17:31:56,778 Alpha calculated
+2020-12-12 17:31:56,779 Alpha Converged : 0
+2020-12-12 17:31:56,779 Alpha calculated
+2020-12-12 17:31:56,779 Alpha Converged : 0
+2020-12-12 17:31:56,779 Alpha calculated
+2020-12-12 17:31:56,780 Alpha Converged : 0
+2020-12-12 17:31:56,780 Alpha calculated
+2020-12-12 17:31:56,781 Alpha Converged : 0
+2020-12-12 17:31:56,781 Alpha calculated
+2020-12-12 17:31:56,781 Alpha Converged : 0
+2020-12-12 17:31:56,781 Alpha calculated
+2020-12-12 17:31:56,782 Alpha Converged : 0
+2020-12-12 17:31:56,782 Alpha calculated
+2020-12-12 17:31:56,783 Alpha Converged : 0
+2020-12-12 17:31:56,783 Alpha calculated
+2020-12-12 17:31:56,783 Alpha Converged : 0
+2020-12-12 17:31:56,784 Alpha calculated
+2020-12-12 17:31:56,784 Alpha Converged : 0
+2020-12-12 17:31:56,784 Alpha calculated
+2020-12-12 17:31:56,785 Alpha Converged : 0
+2020-12-12 17:31:56,785 Alpha calculated
+2020-12-12 17:31:56,786 Alpha Converged : 0
+2020-12-12 17:31:56,786 Alpha calculated
+2020-12-12 17:31:56,786 Alpha Converged : 0
+2020-12-12 17:31:56,786 Alpha calculated
+2020-12-12 17:31:56,787 Alpha Converged : 0
+2020-12-12 17:31:56,787 Alpha calculated
+2020-12-12 17:31:56,788 Alpha Converged : 0
+2020-12-12 17:31:56,788 Alpha calculated
+2020-12-12 17:31:56,788 Alpha Converged : 0
+2020-12-12 17:31:56,789 Alpha calculated
+2020-12-12 17:31:56,789 Alpha Converged : 0
+2020-12-12 17:31:56,789 Alpha calculated
+2020-12-12 17:31:56,790 Alpha Converged : 0
+2020-12-12 17:31:56,790 Alpha calculated
+2020-12-12 17:31:56,791 Alpha Converged : 0
+2020-12-12 17:31:56,791 Alpha calculated
+2020-12-12 17:31:56,791 Alpha Converged : 0
+2020-12-12 17:31:56,791 Alpha calculated
+2020-12-12 17:31:56,792 Alpha Converged : 0
+2020-12-12 17:31:56,792 Alpha calculated
+2020-12-12 17:31:56,792 Alpha Converged : 0
+2020-12-12 17:31:56,793 Alpha calculated
+2020-12-12 17:31:56,794 Alpha Converged : 0
+2020-12-12 17:31:56,795 Alpha calculated
+2020-12-12 17:31:56,795 Alpha Converged : 0
+2020-12-12 17:31:56,795 Alpha calculated
+2020-12-12 17:31:56,796 Alpha Converged : 0
+2020-12-12 17:31:56,796 Alpha calculated
+2020-12-12 17:31:56,797 Alpha Converged : 0
+2020-12-12 17:31:56,797 Alpha calculated
+2020-12-12 17:31:56,797 Alpha Converged : 0
+2020-12-12 17:31:56,797 Alpha calculated
+2020-12-12 17:31:56,798 Alpha Converged : 0
+2020-12-12 17:31:56,798 Alpha calculated
+2020-12-12 17:31:56,799 Alpha Converged : 0
+2020-12-12 17:31:56,799 Alpha calculated
+2020-12-12 17:31:56,799 Alpha Converged : 0
+2020-12-12 17:31:56,800 Alpha calculated
+2020-12-12 17:31:56,800 Alpha Converged : 0
+2020-12-12 17:31:56,800 Alpha calculated
+2020-12-12 17:31:56,801 Alpha Converged : 0
+2020-12-12 17:31:56,801 Alpha calculated
+2020-12-12 17:31:56,802 Alpha Converged : 0
+2020-12-12 17:31:56,802 Alpha calculated
+2020-12-12 17:31:56,802 Alpha Converged : 0
+2020-12-12 17:31:56,802 Alpha calculated
+2020-12-12 17:31:56,803 Alpha Converged : 0
+2020-12-12 17:31:56,803 Alpha calculated
+2020-12-12 17:31:56,804 Alpha Converged : 0
+2020-12-12 17:31:56,804 Alpha calculated
+2020-12-12 17:31:56,804 Alpha Converged : 0
+2020-12-12 17:31:56,805 Alpha calculated
+2020-12-12 17:31:56,805 Alpha Converged : 0
+2020-12-12 17:31:56,805 Alpha calculated
+2020-12-12 17:31:56,806 Alpha Converged : 0
+2020-12-12 17:31:56,806 Alpha calculated
+2020-12-12 17:31:56,806 Alpha Converged : 0
+2020-12-12 17:31:56,807 Alpha calculated
+2020-12-12 17:31:56,807 Alpha Converged : 0
+2020-12-12 17:31:56,807 Alpha calculated
+2020-12-12 17:31:56,808 Alpha Converged : 0
+2020-12-12 17:31:56,808 Alpha calculated
+2020-12-12 17:31:56,808 Alpha Converged : 0
+2020-12-12 17:31:56,809 Alpha calculated
+2020-12-12 17:31:56,809 Alpha Converged : 0
+2020-12-12 17:31:56,809 Alpha calculated
+2020-12-12 17:31:56,810 Alpha Converged : 0
+2020-12-12 17:31:56,810 Alpha calculated
+2020-12-12 17:31:56,811 Alpha Converged : 0
+2020-12-12 17:31:56,811 Alpha calculated
+2020-12-12 17:31:56,811 Alpha Converged : 0
+2020-12-12 17:31:56,811 Alpha calculated
+2020-12-12 17:31:56,812 Alpha Converged : 0
+2020-12-12 17:31:56,812 Alpha calculated
+2020-12-12 17:31:56,813 Alpha Converged : 0
+2020-12-12 17:31:56,813 Alpha calculated
+2020-12-12 17:31:56,813 Alpha Converged : 0
+2020-12-12 17:31:56,813 Alpha calculated
+2020-12-12 17:31:56,814 Alpha Converged : 0
+2020-12-12 17:31:56,814 Alpha calculated
+2020-12-12 17:31:56,815 Alpha Converged : 0
+2020-12-12 17:31:56,815 Alpha calculated
+2020-12-12 17:31:56,815 Alpha Converged : 0
+2020-12-12 17:31:56,816 Alpha calculated
+2020-12-12 17:31:56,816 Alpha Converged : 0
+2020-12-12 17:31:56,817 Alpha calculated
+2020-12-12 17:31:56,817 Alpha Converged : 0
+2020-12-12 17:31:56,817 Alpha calculated
+2020-12-12 17:31:56,818 Alpha Converged : 0
+2020-12-12 17:31:56,818 Alpha calculated
+2020-12-12 17:31:56,819 Alpha Converged : 0
+2020-12-12 17:31:56,819 Alpha calculated
+2020-12-12 17:31:56,819 Alpha Converged : 0
+2020-12-12 17:31:56,819 Alpha calculated
+2020-12-12 17:31:56,820 Alpha Converged : 0
+2020-12-12 17:31:56,820 Alpha calculated
+2020-12-12 17:31:56,820 Alpha Converged : 0
+2020-12-12 17:31:56,821 Alpha calculated
+2020-12-12 17:31:56,821 Alpha Converged : 0
+2020-12-12 17:31:56,821 Alpha calculated
+2020-12-12 17:31:56,822 Alpha Converged : 0
+2020-12-12 17:31:56,822 Alpha calculated
+2020-12-12 17:31:56,822 Alpha Converged : 0
+2020-12-12 17:31:56,822 Alpha calculated
+2020-12-12 17:31:56,823 EStep completed
+2020-12-12 17:31:56,823 Mu calculated
+2020-12-12 17:31:56,823 Sigma calculated : 8.180742482366972e-05 
+2020-12-12 17:31:56,824 alphaLikelihood calculated
+2020-12-12 17:31:57,641 Beta converged : 2
+2020-12-12 17:31:57,641 Beta calculated
+2020-12-12 17:31:57,646 dataLikelihood calculated
+2020-12-12 17:31:57,646 Deltasq calculated
+2020-12-12 17:31:57,646 MStep completed
+2020-12-12 17:31:57,647 Alpha Converged : 0
+2020-12-12 17:31:57,647 Alpha calculated
+2020-12-12 17:31:57,647 Alpha Converged : 0
+2020-12-12 17:31:57,648 Alpha calculated
+2020-12-12 17:31:57,648 Alpha Converged : 0
+2020-12-12 17:31:57,648 Alpha calculated
+2020-12-12 17:31:57,649 Alpha Converged : 0
+2020-12-12 17:31:57,649 Alpha calculated
+2020-12-12 17:31:57,649 Alpha Converged : 0
+2020-12-12 17:31:57,649 Alpha calculated
+2020-12-12 17:31:57,650 Alpha Converged : 0
+2020-12-12 17:31:57,650 Alpha calculated
+2020-12-12 17:31:57,650 Alpha Converged : 0
+2020-12-12 17:31:57,650 Alpha calculated
+2020-12-12 17:31:57,651 Alpha Converged : 0
+2020-12-12 17:31:57,651 Alpha calculated
+2020-12-12 17:31:57,651 Alpha Converged : 0
+2020-12-12 17:31:57,651 Alpha calculated
+2020-12-12 17:31:57,652 Alpha Converged : 0
+2020-12-12 17:31:57,652 Alpha calculated
+2020-12-12 17:31:57,652 Alpha Converged : 0
+2020-12-12 17:31:57,653 Alpha calculated
+2020-12-12 17:31:57,653 Alpha Converged : 0
+2020-12-12 17:31:57,653 Alpha calculated
+2020-12-12 17:31:57,654 Alpha Converged : 0
+2020-12-12 17:31:57,654 Alpha calculated
+2020-12-12 17:31:57,654 Alpha Converged : 0
+2020-12-12 17:31:57,654 Alpha calculated
+2020-12-12 17:31:57,655 Alpha Converged : 0
+2020-12-12 17:31:57,655 Alpha calculated
+2020-12-12 17:31:57,655 Alpha Converged : 0
+2020-12-12 17:31:57,655 Alpha calculated
+2020-12-12 17:31:57,656 Alpha Converged : 0
+2020-12-12 17:31:57,656 Alpha calculated
+2020-12-12 17:31:57,656 Alpha Converged : 0
+2020-12-12 17:31:57,656 Alpha calculated
+2020-12-12 17:31:57,657 Alpha Converged : 0
+2020-12-12 17:31:57,657 Alpha calculated
+2020-12-12 17:31:57,657 Alpha Converged : 0
+2020-12-12 17:31:57,658 Alpha calculated
+2020-12-12 17:31:57,658 Alpha Converged : 0
+2020-12-12 17:31:57,658 Alpha calculated
+2020-12-12 17:31:57,659 Alpha Converged : 0
+2020-12-12 17:31:57,659 Alpha calculated
+2020-12-12 17:31:57,659 Alpha Converged : 0
+2020-12-12 17:31:57,659 Alpha calculated
+2020-12-12 17:31:57,660 Alpha Converged : 0
+2020-12-12 17:31:57,660 Alpha calculated
+2020-12-12 17:31:57,660 Alpha Converged : 0
+2020-12-12 17:31:57,660 Alpha calculated
+2020-12-12 17:31:57,661 Alpha Converged : 0
+2020-12-12 17:31:57,661 Alpha calculated
+2020-12-12 17:31:57,661 Alpha Converged : 0
+2020-12-12 17:31:57,661 Alpha calculated
+2020-12-12 17:31:57,662 Alpha Converged : 0
+2020-12-12 17:31:57,662 Alpha calculated
+2020-12-12 17:31:57,662 Alpha Converged : 0
+2020-12-12 17:31:57,663 Alpha calculated
+2020-12-12 17:31:57,663 Alpha Converged : 0
+2020-12-12 17:31:57,663 Alpha calculated
+2020-12-12 17:31:57,664 Alpha Converged : 0
+2020-12-12 17:31:57,664 Alpha calculated
+2020-12-12 17:31:57,664 Alpha Converged : 0
+2020-12-12 17:31:57,664 Alpha calculated
+2020-12-12 17:31:57,665 Alpha Converged : 0
+2020-12-12 17:31:57,665 Alpha calculated
+2020-12-12 17:31:57,665 Alpha Converged : 0
+2020-12-12 17:31:57,666 Alpha calculated
+2020-12-12 17:31:57,666 Alpha Converged : 0
+2020-12-12 17:31:57,666 Alpha calculated
+2020-12-12 17:31:57,667 Alpha Converged : 0
+2020-12-12 17:31:57,667 Alpha calculated
+2020-12-12 17:31:57,667 Alpha Converged : 0
+2020-12-12 17:31:57,668 Alpha calculated
+2020-12-12 17:31:57,668 Alpha Converged : 0
+2020-12-12 17:31:57,668 Alpha calculated
+2020-12-12 17:31:57,669 Alpha Converged : 0
+2020-12-12 17:31:57,669 Alpha calculated
+2020-12-12 17:31:57,669 Alpha Converged : 0
+2020-12-12 17:31:57,669 Alpha calculated
+2020-12-12 17:31:57,670 Alpha Converged : 0
+2020-12-12 17:31:57,670 Alpha calculated
+2020-12-12 17:31:57,670 Alpha Converged : 0
+2020-12-12 17:31:57,671 Alpha calculated
+2020-12-12 17:31:57,671 Alpha Converged : 0
+2020-12-12 17:31:57,671 Alpha calculated
+2020-12-12 17:31:57,672 Alpha Converged : 0
+2020-12-12 17:31:57,672 Alpha calculated
+2020-12-12 17:31:57,672 Alpha Converged : 0
+2020-12-12 17:31:57,672 Alpha calculated
+2020-12-12 17:31:57,673 Alpha Converged : 0
+2020-12-12 17:31:57,673 Alpha calculated
+2020-12-12 17:31:57,673 Alpha Converged : 0
+2020-12-12 17:31:57,673 Alpha calculated
+2020-12-12 17:31:57,674 Alpha Converged : 0
+2020-12-12 17:31:57,674 Alpha calculated
+2020-12-12 17:31:57,674 Alpha Converged : 0
+2020-12-12 17:31:57,675 Alpha calculated
+2020-12-12 17:31:57,675 Alpha Converged : 0
+2020-12-12 17:31:57,675 Alpha calculated
+2020-12-12 17:31:57,676 Alpha Converged : 0
+2020-12-12 17:31:57,676 Alpha calculated
+2020-12-12 17:31:57,676 Alpha Converged : 0
+2020-12-12 17:31:57,676 Alpha calculated
+2020-12-12 17:31:57,677 Alpha Converged : 0
+2020-12-12 17:31:57,677 Alpha calculated
+2020-12-12 17:31:57,677 Alpha Converged : 0
+2020-12-12 17:31:57,677 Alpha calculated
+2020-12-12 17:31:57,678 Alpha Converged : 0
+2020-12-12 17:31:57,678 Alpha calculated
+2020-12-12 17:31:57,678 Alpha Converged : 0
+2020-12-12 17:31:57,679 Alpha calculated
+2020-12-12 17:31:57,679 Alpha Converged : 0
+2020-12-12 17:31:57,679 Alpha calculated
+2020-12-12 17:31:57,680 Alpha Converged : 0
+2020-12-12 17:31:57,680 Alpha calculated
+2020-12-12 17:31:57,680 Alpha Converged : 0
+2020-12-12 17:31:57,680 Alpha calculated
+2020-12-12 17:31:57,681 Alpha Converged : 0
+2020-12-12 17:31:57,681 Alpha calculated
+2020-12-12 17:31:57,681 Alpha Converged : 0
+2020-12-12 17:31:57,681 Alpha calculated
+2020-12-12 17:31:57,682 Alpha Converged : 0
+2020-12-12 17:31:57,682 Alpha calculated
+2020-12-12 17:31:57,683 Alpha Converged : 0
+2020-12-12 17:31:57,683 Alpha calculated
+2020-12-12 17:31:57,683 Alpha Converged : 0
+2020-12-12 17:31:57,683 Alpha calculated
+2020-12-12 17:31:57,684 Alpha Converged : 0
+2020-12-12 17:31:57,684 Alpha calculated
+2020-12-12 17:31:57,684 Alpha Converged : 0
+2020-12-12 17:31:57,684 Alpha calculated
+2020-12-12 17:31:57,685 Alpha Converged : 0
+2020-12-12 17:31:57,685 Alpha calculated
+2020-12-12 17:31:57,685 Alpha Converged : 0
+2020-12-12 17:31:57,686 Alpha calculated
+2020-12-12 17:31:57,686 Alpha Converged : 0
+2020-12-12 17:31:57,686 Alpha calculated
+2020-12-12 17:31:57,687 Alpha Converged : 0
+2020-12-12 17:31:57,687 Alpha calculated
+2020-12-12 17:31:57,687 Alpha Converged : 0
+2020-12-12 17:31:57,687 Alpha calculated
+2020-12-12 17:31:57,688 Alpha Converged : 0
+2020-12-12 17:31:57,688 Alpha calculated
+2020-12-12 17:31:57,688 Alpha Converged : 0
+2020-12-12 17:31:57,688 Alpha calculated
+2020-12-12 17:31:57,689 Alpha Converged : 0
+2020-12-12 17:31:57,689 Alpha calculated
+2020-12-12 17:31:57,690 Alpha Converged : 0
+2020-12-12 17:31:57,690 Alpha calculated
+2020-12-12 17:31:57,690 Alpha Converged : 0
+2020-12-12 17:31:57,690 Alpha calculated
+2020-12-12 17:31:57,691 Alpha Converged : 0
+2020-12-12 17:31:57,691 Alpha calculated
+2020-12-12 17:31:57,691 Alpha Converged : 0
+2020-12-12 17:31:57,691 Alpha calculated
+2020-12-12 17:31:57,692 Alpha Converged : 0
+2020-12-12 17:31:57,692 Alpha calculated
+2020-12-12 17:31:57,693 Alpha Converged : 0
+2020-12-12 17:31:57,693 Alpha calculated
+2020-12-12 17:31:57,693 Alpha Converged : 0
+2020-12-12 17:31:57,693 Alpha calculated
+2020-12-12 17:31:57,694 Alpha Converged : 0
+2020-12-12 17:31:57,694 Alpha calculated
+2020-12-12 17:31:57,694 Alpha Converged : 0
+2020-12-12 17:31:57,695 Alpha calculated
+2020-12-12 17:31:57,695 Alpha Converged : 0
+2020-12-12 17:31:57,695 Alpha calculated
+2020-12-12 17:31:57,696 Alpha Converged : 0
+2020-12-12 17:31:57,696 Alpha calculated
+2020-12-12 17:31:57,696 Alpha Converged : 0
+2020-12-12 17:31:57,696 Alpha calculated
+2020-12-12 17:31:57,697 Alpha Converged : 0
+2020-12-12 17:31:57,697 Alpha calculated
+2020-12-12 17:31:57,697 Alpha Converged : 0
+2020-12-12 17:31:57,697 Alpha calculated
+2020-12-12 17:31:57,698 Alpha Converged : 0
+2020-12-12 17:31:57,698 Alpha calculated
+2020-12-12 17:31:57,698 Alpha Converged : 0
+2020-12-12 17:31:57,699 Alpha calculated
+2020-12-12 17:31:57,700 Alpha Converged : 0
+2020-12-12 17:31:57,700 Alpha calculated
+2020-12-12 17:31:57,701 Alpha Converged : 0
+2020-12-12 17:31:57,701 Alpha calculated
+2020-12-12 17:31:57,702 Alpha Converged : 0
+2020-12-12 17:31:57,702 Alpha calculated
+2020-12-12 17:31:57,702 Alpha Converged : 0
+2020-12-12 17:31:57,703 Alpha calculated
+2020-12-12 17:31:57,704 Alpha Converged : 0
+2020-12-12 17:31:57,704 Alpha calculated
+2020-12-12 17:31:57,705 Alpha Converged : 0
+2020-12-12 17:31:57,705 Alpha calculated
+2020-12-12 17:31:57,705 Alpha Converged : 0
+2020-12-12 17:31:57,705 Alpha calculated
+2020-12-12 17:31:57,706 Alpha Converged : 0
+2020-12-12 17:31:57,706 Alpha calculated
+2020-12-12 17:31:57,707 Alpha Converged : 0
+2020-12-12 17:31:57,707 Alpha calculated
+2020-12-12 17:31:57,707 Alpha Converged : 0
+2020-12-12 17:31:57,707 Alpha calculated
+2020-12-12 17:31:57,708 Alpha Converged : 0
+2020-12-12 17:31:57,708 Alpha calculated
+2020-12-12 17:31:57,708 Alpha Converged : 0
+2020-12-12 17:31:57,709 Alpha calculated
+2020-12-12 17:31:57,709 Alpha Converged : 0
+2020-12-12 17:31:57,709 Alpha calculated
+2020-12-12 17:31:57,710 Alpha Converged : 0
+2020-12-12 17:31:57,710 Alpha calculated
+2020-12-12 17:31:57,711 Alpha Converged : 0
+2020-12-12 17:31:57,711 Alpha calculated
+2020-12-12 17:31:57,711 Alpha Converged : 0
+2020-12-12 17:31:57,711 Alpha calculated
+2020-12-12 17:31:57,712 Alpha Converged : 0
+2020-12-12 17:31:57,712 Alpha calculated
+2020-12-12 17:31:57,712 EStep completed
+2020-12-12 17:31:57,712 Mu calculated
+2020-12-12 17:31:57,714 Sigma calculated : 4.980968226009456e-07 
+2020-12-12 17:31:57,715 alphaLikelihood calculated
+2020-12-12 17:31:58,622 Beta converged : 2
+2020-12-12 17:31:58,622 Beta calculated
+2020-12-12 17:31:58,628 dataLikelihood calculated
+2020-12-12 17:31:58,629 Deltasq calculated
+2020-12-12 17:31:58,629 MStep completed
+2020-12-12 17:31:58,630 Alpha Converged : 0
+2020-12-12 17:31:58,630 Alpha calculated
+2020-12-12 17:31:58,631 Alpha Converged : 0
+2020-12-12 17:31:58,631 Alpha calculated
+2020-12-12 17:31:58,631 Alpha Converged : 0
+2020-12-12 17:31:58,632 Alpha calculated
+2020-12-12 17:31:58,632 Alpha Converged : 0
+2020-12-12 17:31:58,633 Alpha calculated
+2020-12-12 17:31:58,634 Alpha Converged : 0
+2020-12-12 17:31:58,634 Alpha calculated
+2020-12-12 17:31:58,636 Alpha Converged : 0
+2020-12-12 17:31:58,636 Alpha calculated
+2020-12-12 17:31:58,637 Alpha Converged : 0
+2020-12-12 17:31:58,637 Alpha calculated
+2020-12-12 17:31:58,638 Alpha Converged : 0
+2020-12-12 17:31:58,638 Alpha calculated
+2020-12-12 17:31:58,639 Alpha Converged : 0
+2020-12-12 17:31:58,639 Alpha calculated
+2020-12-12 17:31:58,639 Alpha Converged : 0
+2020-12-12 17:31:58,639 Alpha calculated
+2020-12-12 17:31:58,640 Alpha Converged : 0
+2020-12-12 17:31:58,640 Alpha calculated
+2020-12-12 17:31:58,641 Alpha Converged : 0
+2020-12-12 17:31:58,641 Alpha calculated
+2020-12-12 17:31:58,641 Alpha Converged : 0
+2020-12-12 17:31:58,641 Alpha calculated
+2020-12-12 17:31:58,642 Alpha Converged : 0
+2020-12-12 17:31:58,643 Alpha calculated
+2020-12-12 17:31:58,643 Alpha Converged : 0
+2020-12-12 17:31:58,643 Alpha calculated
+2020-12-12 17:31:58,644 Alpha Converged : 0
+2020-12-12 17:31:58,644 Alpha calculated
+2020-12-12 17:31:58,645 Alpha Converged : 0
+2020-12-12 17:31:58,645 Alpha calculated
+2020-12-12 17:31:58,646 Alpha Converged : 0
+2020-12-12 17:31:58,646 Alpha calculated
+2020-12-12 17:31:58,647 Alpha Converged : 0
+2020-12-12 17:31:58,647 Alpha calculated
+2020-12-12 17:31:58,647 Alpha Converged : 0
+2020-12-12 17:31:58,647 Alpha calculated
+2020-12-12 17:31:58,648 Alpha Converged : 0
+2020-12-12 17:31:58,648 Alpha calculated
+2020-12-12 17:31:58,650 Alpha Converged : 0
+2020-12-12 17:31:58,650 Alpha calculated
+2020-12-12 17:31:58,651 Alpha Converged : 0
+2020-12-12 17:31:58,651 Alpha calculated
+2020-12-12 17:31:58,651 Alpha Converged : 0
+2020-12-12 17:31:58,651 Alpha calculated
+2020-12-12 17:31:58,652 Alpha Converged : 0
+2020-12-12 17:31:58,652 Alpha calculated
+2020-12-12 17:31:58,653 Alpha Converged : 0
+2020-12-12 17:31:58,653 Alpha calculated
+2020-12-12 17:31:58,654 Alpha Converged : 0
+2020-12-12 17:31:58,654 Alpha calculated
+2020-12-12 17:31:58,655 Alpha Converged : 0
+2020-12-12 17:31:58,655 Alpha calculated
+2020-12-12 17:31:58,656 Alpha Converged : 0
+2020-12-12 17:31:58,656 Alpha calculated
+2020-12-12 17:31:58,657 Alpha Converged : 0
+2020-12-12 17:31:58,657 Alpha calculated
+2020-12-12 17:31:58,658 Alpha Converged : 0
+2020-12-12 17:31:58,658 Alpha calculated
+2020-12-12 17:31:58,659 Alpha Converged : 0
+2020-12-12 17:31:58,659 Alpha calculated
+2020-12-12 17:31:58,660 Alpha Converged : 0
+2020-12-12 17:31:58,660 Alpha calculated
+2020-12-12 17:31:58,661 Alpha Converged : 0
+2020-12-12 17:31:58,661 Alpha calculated
+2020-12-12 17:31:58,662 Alpha Converged : 0
+2020-12-12 17:31:58,662 Alpha calculated
+2020-12-12 17:31:58,663 Alpha Converged : 0
+2020-12-12 17:31:58,663 Alpha calculated
+2020-12-12 17:31:58,664 Alpha Converged : 0
+2020-12-12 17:31:58,664 Alpha calculated
+2020-12-12 17:31:58,664 Alpha Converged : 0
+2020-12-12 17:31:58,665 Alpha calculated
+2020-12-12 17:31:58,666 Alpha Converged : 0
+2020-12-12 17:31:58,666 Alpha calculated
+2020-12-12 17:31:58,668 Alpha Converged : 0
+2020-12-12 17:31:58,668 Alpha calculated
+2020-12-12 17:31:58,669 Alpha Converged : 0
+2020-12-12 17:31:58,669 Alpha calculated
+2020-12-12 17:31:58,670 Alpha Converged : 0
+2020-12-12 17:31:58,670 Alpha calculated
+2020-12-12 17:31:58,671 Alpha Converged : 0
+2020-12-12 17:31:58,671 Alpha calculated
+2020-12-12 17:31:58,672 Alpha Converged : 0
+2020-12-12 17:31:58,672 Alpha calculated
+2020-12-12 17:31:58,673 Alpha Converged : 0
+2020-12-12 17:31:58,673 Alpha calculated
+2020-12-12 17:31:58,675 Alpha Converged : 0
+2020-12-12 17:31:58,675 Alpha calculated
+2020-12-12 17:31:58,676 Alpha Converged : 0
+2020-12-12 17:31:58,676 Alpha calculated
+2020-12-12 17:31:58,677 Alpha Converged : 0
+2020-12-12 17:31:58,677 Alpha calculated
+2020-12-12 17:31:58,678 Alpha Converged : 0
+2020-12-12 17:31:58,678 Alpha calculated
+2020-12-12 17:31:58,679 Alpha Converged : 0
+2020-12-12 17:31:58,679 Alpha calculated
+2020-12-12 17:31:58,680 Alpha Converged : 0
+2020-12-12 17:31:58,680 Alpha calculated
+2020-12-12 17:31:58,681 Alpha Converged : 0
+2020-12-12 17:31:58,681 Alpha calculated
+2020-12-12 17:31:58,683 Alpha Converged : 0
+2020-12-12 17:31:58,683 Alpha calculated
+2020-12-12 17:31:58,683 Alpha Converged : 0
+2020-12-12 17:31:58,683 Alpha calculated
+2020-12-12 17:31:58,684 Alpha Converged : 0
+2020-12-12 17:31:58,684 Alpha calculated
+2020-12-12 17:31:58,685 Alpha Converged : 0
+2020-12-12 17:31:58,685 Alpha calculated
+2020-12-12 17:31:58,685 Alpha Converged : 0
+2020-12-12 17:31:58,685 Alpha calculated
+2020-12-12 17:31:58,686 Alpha Converged : 0
+2020-12-12 17:31:58,686 Alpha calculated
+2020-12-12 17:31:58,686 Alpha Converged : 0
+2020-12-12 17:31:58,686 Alpha calculated
+2020-12-12 17:31:58,687 Alpha Converged : 0
+2020-12-12 17:31:58,687 Alpha calculated
+2020-12-12 17:31:58,688 Alpha Converged : 0
+2020-12-12 17:31:58,688 Alpha calculated
+2020-12-12 17:31:58,689 Alpha Converged : 0
+2020-12-12 17:31:58,689 Alpha calculated
+2020-12-12 17:31:58,690 Alpha Converged : 0
+2020-12-12 17:31:58,690 Alpha calculated
+2020-12-12 17:31:58,691 Alpha Converged : 0
+2020-12-12 17:31:58,691 Alpha calculated
+2020-12-12 17:31:58,692 Alpha Converged : 0
+2020-12-12 17:31:58,692 Alpha calculated
+2020-12-12 17:31:58,692 Alpha Converged : 0
+2020-12-12 17:31:58,693 Alpha calculated
+2020-12-12 17:31:58,693 Alpha Converged : 0
+2020-12-12 17:31:58,693 Alpha calculated
+2020-12-12 17:31:58,694 Alpha Converged : 0
+2020-12-12 17:31:58,694 Alpha calculated
+2020-12-12 17:31:58,695 Alpha Converged : 0
+2020-12-12 17:31:58,695 Alpha calculated
+2020-12-12 17:31:58,696 Alpha Converged : 0
+2020-12-12 17:31:58,696 Alpha calculated
+2020-12-12 17:31:58,696 Alpha Converged : 0
+2020-12-12 17:31:58,696 Alpha calculated
+2020-12-12 17:31:58,697 Alpha Converged : 0
+2020-12-12 17:31:58,697 Alpha calculated
+2020-12-12 17:31:58,698 Alpha Converged : 0
+2020-12-12 17:31:58,698 Alpha calculated
+2020-12-12 17:31:58,699 Alpha Converged : 0
+2020-12-12 17:31:58,700 Alpha calculated
+2020-12-12 17:31:58,700 Alpha Converged : 0
+2020-12-12 17:31:58,701 Alpha calculated
+2020-12-12 17:31:58,701 Alpha Converged : 0
+2020-12-12 17:31:58,701 Alpha calculated
+2020-12-12 17:31:58,702 Alpha Converged : 0
+2020-12-12 17:31:58,702 Alpha calculated
+2020-12-12 17:31:58,703 Alpha Converged : 0
+2020-12-12 17:31:58,703 Alpha calculated
+2020-12-12 17:31:58,704 Alpha Converged : 0
+2020-12-12 17:31:58,704 Alpha calculated
+2020-12-12 17:31:58,705 Alpha Converged : 0
+2020-12-12 17:31:58,705 Alpha calculated
+2020-12-12 17:31:58,706 Alpha Converged : 0
+2020-12-12 17:31:58,706 Alpha calculated
+2020-12-12 17:31:58,707 Alpha Converged : 0
+2020-12-12 17:31:58,707 Alpha calculated
+2020-12-12 17:31:58,708 Alpha Converged : 0
+2020-12-12 17:31:58,708 Alpha calculated
+2020-12-12 17:31:58,709 Alpha Converged : 0
+2020-12-12 17:31:58,709 Alpha calculated
+2020-12-12 17:31:58,710 Alpha Converged : 0
+2020-12-12 17:31:58,710 Alpha calculated
+2020-12-12 17:31:58,710 Alpha Converged : 0
+2020-12-12 17:31:58,710 Alpha calculated
+2020-12-12 17:31:58,711 Alpha Converged : 0
+2020-12-12 17:31:58,711 Alpha calculated
+2020-12-12 17:31:58,712 Alpha Converged : 0
+2020-12-12 17:31:58,712 Alpha calculated
+2020-12-12 17:31:58,713 Alpha Converged : 0
+2020-12-12 17:31:58,713 Alpha calculated
+2020-12-12 17:31:58,713 Alpha Converged : 0
+2020-12-12 17:31:58,713 Alpha calculated
+2020-12-12 17:31:58,714 Alpha Converged : 0
+2020-12-12 17:31:58,715 Alpha calculated
+2020-12-12 17:31:58,716 Alpha Converged : 0
+2020-12-12 17:31:58,716 Alpha calculated
+2020-12-12 17:31:58,717 Alpha Converged : 0
+2020-12-12 17:31:58,717 Alpha calculated
+2020-12-12 17:31:58,718 Alpha Converged : 0
+2020-12-12 17:31:58,718 Alpha calculated
+2020-12-12 17:31:58,719 Alpha Converged : 0
+2020-12-12 17:31:58,719 Alpha calculated
+2020-12-12 17:31:58,720 Alpha Converged : 0
+2020-12-12 17:31:58,720 Alpha calculated
+2020-12-12 17:31:58,721 Alpha Converged : 0
+2020-12-12 17:31:58,721 Alpha calculated
+2020-12-12 17:31:58,722 Alpha Converged : 0
+2020-12-12 17:31:58,722 Alpha calculated
+2020-12-12 17:31:58,723 Alpha Converged : 0
+2020-12-12 17:31:58,723 Alpha calculated
+2020-12-12 17:31:58,724 Alpha Converged : 0
+2020-12-12 17:31:58,724 Alpha calculated
+2020-12-12 17:31:58,725 Alpha Converged : 0
+2020-12-12 17:31:58,725 Alpha calculated
+2020-12-12 17:31:58,726 Alpha Converged : 0
+2020-12-12 17:31:58,726 Alpha calculated
+2020-12-12 17:31:58,727 Alpha Converged : 0
+2020-12-12 17:31:58,727 Alpha calculated
+2020-12-12 17:31:58,728 Alpha Converged : 0
+2020-12-12 17:31:58,728 Alpha calculated
+2020-12-12 17:31:58,729 Alpha Converged : 0
+2020-12-12 17:31:58,729 Alpha calculated
+2020-12-12 17:31:58,730 Alpha Converged : 0
+2020-12-12 17:31:58,730 Alpha calculated
+2020-12-12 17:31:58,731 Alpha Converged : 0
+2020-12-12 17:31:58,731 Alpha calculated
+2020-12-12 17:31:58,731 EStep completed
+2020-12-12 17:31:58,731 Mu calculated
+2020-12-12 17:31:58,732 Sigma calculated : 2.474472500145813e-07 
+2020-12-12 17:31:58,733 alphaLikelihood calculated
+2020-12-12 17:31:59,551 Beta converged : 2
+2020-12-12 17:31:59,552 Beta calculated
+2020-12-12 17:31:59,556 dataLikelihood calculated
+2020-12-12 17:31:59,556 Deltasq calculated
+2020-12-12 17:31:59,557 MStep completed
+2020-12-12 17:31:59,557 Alpha Converged : 0
+2020-12-12 17:31:59,557 Alpha calculated
+2020-12-12 17:31:59,558 Alpha Converged : 0
+2020-12-12 17:31:59,558 Alpha calculated
+2020-12-12 17:31:59,558 Alpha Converged : 0
+2020-12-12 17:31:59,558 Alpha calculated
+2020-12-12 17:31:59,559 Alpha Converged : 0
+2020-12-12 17:31:59,559 Alpha calculated
+2020-12-12 17:31:59,559 Alpha Converged : 0
+2020-12-12 17:31:59,559 Alpha calculated
+2020-12-12 17:31:59,560 Alpha Converged : 0
+2020-12-12 17:31:59,560 Alpha calculated
+2020-12-12 17:31:59,560 Alpha Converged : 0
+2020-12-12 17:31:59,560 Alpha calculated
+2020-12-12 17:31:59,561 Alpha Converged : 0
+2020-12-12 17:31:59,561 Alpha calculated
+2020-12-12 17:31:59,562 Alpha Converged : 0
+2020-12-12 17:31:59,562 Alpha calculated
+2020-12-12 17:31:59,562 Alpha Converged : 0
+2020-12-12 17:31:59,562 Alpha calculated
+2020-12-12 17:31:59,563 Alpha Converged : 0
+2020-12-12 17:31:59,563 Alpha calculated
+2020-12-12 17:31:59,563 Alpha Converged : 0
+2020-12-12 17:31:59,563 Alpha calculated
+2020-12-12 17:31:59,564 Alpha Converged : 0
+2020-12-12 17:31:59,564 Alpha calculated
+2020-12-12 17:31:59,564 Alpha Converged : 0
+2020-12-12 17:31:59,564 Alpha calculated
+2020-12-12 17:31:59,565 Alpha Converged : 0
+2020-12-12 17:31:59,565 Alpha calculated
+2020-12-12 17:31:59,565 Alpha Converged : 0
+2020-12-12 17:31:59,565 Alpha calculated
+2020-12-12 17:31:59,566 Alpha Converged : 0
+2020-12-12 17:31:59,566 Alpha calculated
+2020-12-12 17:31:59,566 Alpha Converged : 0
+2020-12-12 17:31:59,566 Alpha calculated
+2020-12-12 17:31:59,567 Alpha Converged : 0
+2020-12-12 17:31:59,567 Alpha calculated
+2020-12-12 17:31:59,567 Alpha Converged : 0
+2020-12-12 17:31:59,567 Alpha calculated
+2020-12-12 17:31:59,568 Alpha Converged : 0
+2020-12-12 17:31:59,568 Alpha calculated
+2020-12-12 17:31:59,568 Alpha Converged : 0
+2020-12-12 17:31:59,568 Alpha calculated
+2020-12-12 17:31:59,569 Alpha Converged : 0
+2020-12-12 17:31:59,569 Alpha calculated
+2020-12-12 17:31:59,569 Alpha Converged : 0
+2020-12-12 17:31:59,569 Alpha calculated
+2020-12-12 17:31:59,570 Alpha Converged : 0
+2020-12-12 17:31:59,570 Alpha calculated
+2020-12-12 17:31:59,570 Alpha Converged : 0
+2020-12-12 17:31:59,570 Alpha calculated
+2020-12-12 17:31:59,571 Alpha Converged : 0
+2020-12-12 17:31:59,571 Alpha calculated
+2020-12-12 17:31:59,571 Alpha Converged : 0
+2020-12-12 17:31:59,572 Alpha calculated
+2020-12-12 17:31:59,572 Alpha Converged : 0
+2020-12-12 17:31:59,572 Alpha calculated
+2020-12-12 17:31:59,572 Alpha Converged : 0
+2020-12-12 17:31:59,573 Alpha calculated
+2020-12-12 17:31:59,573 Alpha Converged : 0
+2020-12-12 17:31:59,573 Alpha calculated
+2020-12-12 17:31:59,573 Alpha Converged : 0
+2020-12-12 17:31:59,574 Alpha calculated
+2020-12-12 17:31:59,574 Alpha Converged : 0
+2020-12-12 17:31:59,574 Alpha calculated
+2020-12-12 17:31:59,575 Alpha Converged : 0
+2020-12-12 17:31:59,575 Alpha calculated
+2020-12-12 17:31:59,575 Alpha Converged : 0
+2020-12-12 17:31:59,575 Alpha calculated
+2020-12-12 17:31:59,576 Alpha Converged : 0
+2020-12-12 17:31:59,576 Alpha calculated
+2020-12-12 17:31:59,576 Alpha Converged : 0
+2020-12-12 17:31:59,576 Alpha calculated
+2020-12-12 17:31:59,577 Alpha Converged : 0
+2020-12-12 17:31:59,577 Alpha calculated
+2020-12-12 17:31:59,577 Alpha Converged : 0
+2020-12-12 17:31:59,577 Alpha calculated
+2020-12-12 17:31:59,578 Alpha Converged : 0
+2020-12-12 17:31:59,578 Alpha calculated
+2020-12-12 17:31:59,578 Alpha Converged : 0
+2020-12-12 17:31:59,578 Alpha calculated
+2020-12-12 17:31:59,579 Alpha Converged : 0
+2020-12-12 17:31:59,579 Alpha calculated
+2020-12-12 17:31:59,579 Alpha Converged : 0
+2020-12-12 17:31:59,579 Alpha calculated
+2020-12-12 17:31:59,580 Alpha Converged : 0
+2020-12-12 17:31:59,580 Alpha calculated
+2020-12-12 17:31:59,580 Alpha Converged : 0
+2020-12-12 17:31:59,580 Alpha calculated
+2020-12-12 17:31:59,581 Alpha Converged : 0
+2020-12-12 17:31:59,581 Alpha calculated
+2020-12-12 17:31:59,581 Alpha Converged : 0
+2020-12-12 17:31:59,581 Alpha calculated
+2020-12-12 17:31:59,582 Alpha Converged : 0
+2020-12-12 17:31:59,582 Alpha calculated
+2020-12-12 17:31:59,582 Alpha Converged : 0
+2020-12-12 17:31:59,582 Alpha calculated
+2020-12-12 17:31:59,583 Alpha Converged : 0
+2020-12-12 17:31:59,583 Alpha calculated
+2020-12-12 17:31:59,583 Alpha Converged : 0
+2020-12-12 17:31:59,583 Alpha calculated
+2020-12-12 17:31:59,584 Alpha Converged : 0
+2020-12-12 17:31:59,584 Alpha calculated
+2020-12-12 17:31:59,584 Alpha Converged : 0
+2020-12-12 17:31:59,584 Alpha calculated
+2020-12-12 17:31:59,585 Alpha Converged : 0
+2020-12-12 17:31:59,585 Alpha calculated
+2020-12-12 17:31:59,585 Alpha Converged : 0
+2020-12-12 17:31:59,585 Alpha calculated
+2020-12-12 17:31:59,586 Alpha Converged : 0
+2020-12-12 17:31:59,586 Alpha calculated
+2020-12-12 17:31:59,586 Alpha Converged : 0
+2020-12-12 17:31:59,586 Alpha calculated
+2020-12-12 17:31:59,587 Alpha Converged : 0
+2020-12-12 17:31:59,587 Alpha calculated
+2020-12-12 17:31:59,587 Alpha Converged : 0
+2020-12-12 17:31:59,588 Alpha calculated
+2020-12-12 17:31:59,588 Alpha Converged : 0
+2020-12-12 17:31:59,588 Alpha calculated
+2020-12-12 17:31:59,588 Alpha Converged : 0
+2020-12-12 17:31:59,588 Alpha calculated
+2020-12-12 17:31:59,589 Alpha Converged : 0
+2020-12-12 17:31:59,589 Alpha calculated
+2020-12-12 17:31:59,589 Alpha Converged : 0
+2020-12-12 17:31:59,589 Alpha calculated
+2020-12-12 17:31:59,590 Alpha Converged : 0
+2020-12-12 17:31:59,590 Alpha calculated
+2020-12-12 17:31:59,590 Alpha Converged : 0
+2020-12-12 17:31:59,590 Alpha calculated
+2020-12-12 17:31:59,591 Alpha Converged : 0
+2020-12-12 17:31:59,591 Alpha calculated
+2020-12-12 17:31:59,592 Alpha Converged : 0
+2020-12-12 17:31:59,592 Alpha calculated
+2020-12-12 17:31:59,592 Alpha Converged : 0
+2020-12-12 17:31:59,592 Alpha calculated
+2020-12-12 17:31:59,593 Alpha Converged : 0
+2020-12-12 17:31:59,593 Alpha calculated
+2020-12-12 17:31:59,593 Alpha Converged : 0
+2020-12-12 17:31:59,593 Alpha calculated
+2020-12-12 17:31:59,594 Alpha Converged : 0
+2020-12-12 17:31:59,594 Alpha calculated
+2020-12-12 17:31:59,594 Alpha Converged : 0
+2020-12-12 17:31:59,594 Alpha calculated
+2020-12-12 17:31:59,595 Alpha Converged : 0
+2020-12-12 17:31:59,595 Alpha calculated
+2020-12-12 17:31:59,595 Alpha Converged : 0
+2020-12-12 17:31:59,595 Alpha calculated
+2020-12-12 17:31:59,596 Alpha Converged : 0
+2020-12-12 17:31:59,596 Alpha calculated
+2020-12-12 17:31:59,596 Alpha Converged : 0
+2020-12-12 17:31:59,596 Alpha calculated
+2020-12-12 17:31:59,597 Alpha Converged : 0
+2020-12-12 17:31:59,597 Alpha calculated
+2020-12-12 17:31:59,597 Alpha Converged : 0
+2020-12-12 17:31:59,597 Alpha calculated
+2020-12-12 17:31:59,598 Alpha Converged : 0
+2020-12-12 17:31:59,598 Alpha calculated
+2020-12-12 17:31:59,598 Alpha Converged : 0
+2020-12-12 17:31:59,598 Alpha calculated
+2020-12-12 17:31:59,599 Alpha Converged : 0
+2020-12-12 17:31:59,599 Alpha calculated
+2020-12-12 17:31:59,599 Alpha Converged : 0
+2020-12-12 17:31:59,599 Alpha calculated
+2020-12-12 17:31:59,600 Alpha Converged : 0
+2020-12-12 17:31:59,600 Alpha calculated
+2020-12-12 17:31:59,600 Alpha Converged : 0
+2020-12-12 17:31:59,600 Alpha calculated
+2020-12-12 17:31:59,601 Alpha Converged : 0
+2020-12-12 17:31:59,601 Alpha calculated
+2020-12-12 17:31:59,601 Alpha Converged : 0
+2020-12-12 17:31:59,601 Alpha calculated
+2020-12-12 17:31:59,602 Alpha Converged : 0
+2020-12-12 17:31:59,602 Alpha calculated
+2020-12-12 17:31:59,602 Alpha Converged : 0
+2020-12-12 17:31:59,603 Alpha calculated
+2020-12-12 17:31:59,603 Alpha Converged : 0
+2020-12-12 17:31:59,603 Alpha calculated
+2020-12-12 17:31:59,603 Alpha Converged : 0
+2020-12-12 17:31:59,603 Alpha calculated
+2020-12-12 17:31:59,604 Alpha Converged : 0
+2020-12-12 17:31:59,604 Alpha calculated
+2020-12-12 17:31:59,604 Alpha Converged : 0
+2020-12-12 17:31:59,604 Alpha calculated
+2020-12-12 17:31:59,605 Alpha Converged : 0
+2020-12-12 17:31:59,605 Alpha calculated
+2020-12-12 17:31:59,605 Alpha Converged : 0
+2020-12-12 17:31:59,605 Alpha calculated
+2020-12-12 17:31:59,606 Alpha Converged : 0
+2020-12-12 17:31:59,606 Alpha calculated
+2020-12-12 17:31:59,606 Alpha Converged : 0
+2020-12-12 17:31:59,606 Alpha calculated
+2020-12-12 17:31:59,607 Alpha Converged : 0
+2020-12-12 17:31:59,607 Alpha calculated
+2020-12-12 17:31:59,607 Alpha Converged : 0
+2020-12-12 17:31:59,608 Alpha calculated
+2020-12-12 17:31:59,608 Alpha Converged : 0
+2020-12-12 17:31:59,608 Alpha calculated
+2020-12-12 17:31:59,608 Alpha Converged : 0
+2020-12-12 17:31:59,608 Alpha calculated
+2020-12-12 17:31:59,609 Alpha Converged : 0
+2020-12-12 17:31:59,609 Alpha calculated
+2020-12-12 17:31:59,609 Alpha Converged : 0
+2020-12-12 17:31:59,610 Alpha calculated
+2020-12-12 17:31:59,610 Alpha Converged : 0
+2020-12-12 17:31:59,610 Alpha calculated
+2020-12-12 17:31:59,611 Alpha Converged : 0
+2020-12-12 17:31:59,611 Alpha calculated
+2020-12-12 17:31:59,611 Alpha Converged : 0
+2020-12-12 17:31:59,611 Alpha calculated
+2020-12-12 17:31:59,612 Alpha Converged : 0
+2020-12-12 17:31:59,612 Alpha calculated
+2020-12-12 17:31:59,612 Alpha Converged : 0
+2020-12-12 17:31:59,612 Alpha calculated
+2020-12-12 17:31:59,612 EStep completed
+2020-12-12 17:31:59,612 Mu calculated
+2020-12-12 17:31:59,613 Sigma calculated : 5.949724792700462e-11 
+2020-12-12 17:31:59,614 alphaLikelihood calculated
+2020-12-12 17:32:00,410 Beta converged : 2
+2020-12-12 17:32:00,410 Beta calculated
+2020-12-12 17:32:00,415 dataLikelihood calculated
+2020-12-12 17:32:00,415 Deltasq calculated
+2020-12-12 17:32:00,415 MStep completed
+2020-12-12 17:32:00,416 Alpha Converged : 0
+2020-12-12 17:32:00,416 Alpha calculated
+2020-12-12 17:32:00,416 Alpha Converged : 0
+2020-12-12 17:32:00,416 Alpha calculated
+2020-12-12 17:32:00,417 Alpha Converged : 0
+2020-12-12 17:32:00,417 Alpha calculated
+2020-12-12 17:32:00,417 Alpha Converged : 0
+2020-12-12 17:32:00,417 Alpha calculated
+2020-12-12 17:32:00,418 Alpha Converged : 0
+2020-12-12 17:32:00,418 Alpha calculated
+2020-12-12 17:32:00,418 Alpha Converged : 0
+2020-12-12 17:32:00,418 Alpha calculated
+2020-12-12 17:32:00,419 Alpha Converged : 0
+2020-12-12 17:32:00,419 Alpha calculated
+2020-12-12 17:32:00,419 Alpha Converged : 0
+2020-12-12 17:32:00,419 Alpha calculated
+2020-12-12 17:32:00,420 Alpha Converged : 0
+2020-12-12 17:32:00,420 Alpha calculated
+2020-12-12 17:32:00,420 Alpha Converged : 0
+2020-12-12 17:32:00,420 Alpha calculated
+2020-12-12 17:32:00,421 Alpha Converged : 0
+2020-12-12 17:32:00,421 Alpha calculated
+2020-12-12 17:32:00,421 Alpha Converged : 0
+2020-12-12 17:32:00,421 Alpha calculated
+2020-12-12 17:32:00,422 Alpha Converged : 0
+2020-12-12 17:32:00,422 Alpha calculated
+2020-12-12 17:32:00,422 Alpha Converged : 0
+2020-12-12 17:32:00,422 Alpha calculated
+2020-12-12 17:32:00,423 Alpha Converged : 0
+2020-12-12 17:32:00,423 Alpha calculated
+2020-12-12 17:32:00,423 Alpha Converged : 0
+2020-12-12 17:32:00,423 Alpha calculated
+2020-12-12 17:32:00,424 Alpha Converged : 0
+2020-12-12 17:32:00,424 Alpha calculated
+2020-12-12 17:32:00,425 Alpha Converged : 0
+2020-12-12 17:32:00,425 Alpha calculated
+2020-12-12 17:32:00,425 Alpha Converged : 0
+2020-12-12 17:32:00,425 Alpha calculated
+2020-12-12 17:32:00,426 Alpha Converged : 0
+2020-12-12 17:32:00,426 Alpha calculated
+2020-12-12 17:32:00,426 Alpha Converged : 0
+2020-12-12 17:32:00,426 Alpha calculated
+2020-12-12 17:32:00,427 Alpha Converged : 0
+2020-12-12 17:32:00,427 Alpha calculated
+2020-12-12 17:32:00,427 Alpha Converged : 0
+2020-12-12 17:32:00,427 Alpha calculated
+2020-12-12 17:32:00,428 Alpha Converged : 0
+2020-12-12 17:32:00,428 Alpha calculated
+2020-12-12 17:32:00,428 Alpha Converged : 0
+2020-12-12 17:32:00,428 Alpha calculated
+2020-12-12 17:32:00,429 Alpha Converged : 0
+2020-12-12 17:32:00,429 Alpha calculated
+2020-12-12 17:32:00,429 Alpha Converged : 0
+2020-12-12 17:32:00,429 Alpha calculated
+2020-12-12 17:32:00,430 Alpha Converged : 0
+2020-12-12 17:32:00,430 Alpha calculated
+2020-12-12 17:32:00,430 Alpha Converged : 0
+2020-12-12 17:32:00,430 Alpha calculated
+2020-12-12 17:32:00,431 Alpha Converged : 0
+2020-12-12 17:32:00,431 Alpha calculated
+2020-12-12 17:32:00,431 Alpha Converged : 0
+2020-12-12 17:32:00,431 Alpha calculated
+2020-12-12 17:32:00,432 Alpha Converged : 0
+2020-12-12 17:32:00,432 Alpha calculated
+2020-12-12 17:32:00,432 Alpha Converged : 0
+2020-12-12 17:32:00,432 Alpha calculated
+2020-12-12 17:32:00,433 Alpha Converged : 0
+2020-12-12 17:32:00,433 Alpha calculated
+2020-12-12 17:32:00,433 Alpha Converged : 0
+2020-12-12 17:32:00,433 Alpha calculated
+2020-12-12 17:32:00,434 Alpha Converged : 0
+2020-12-12 17:32:00,434 Alpha calculated
+2020-12-12 17:32:00,434 Alpha Converged : 0
+2020-12-12 17:32:00,434 Alpha calculated
+2020-12-12 17:32:00,435 Alpha Converged : 0
+2020-12-12 17:32:00,435 Alpha calculated
+2020-12-12 17:32:00,435 Alpha Converged : 0
+2020-12-12 17:32:00,435 Alpha calculated
+2020-12-12 17:32:00,436 Alpha Converged : 0
+2020-12-12 17:32:00,436 Alpha calculated
+2020-12-12 17:32:00,436 Alpha Converged : 0
+2020-12-12 17:32:00,436 Alpha calculated
+2020-12-12 17:32:00,437 Alpha Converged : 0
+2020-12-12 17:32:00,437 Alpha calculated
+2020-12-12 17:32:00,437 Alpha Converged : 0
+2020-12-12 17:32:00,437 Alpha calculated
+2020-12-12 17:32:00,438 Alpha Converged : 0
+2020-12-12 17:32:00,438 Alpha calculated
+2020-12-12 17:32:00,438 Alpha Converged : 0
+2020-12-12 17:32:00,438 Alpha calculated
+2020-12-12 17:32:00,439 Alpha Converged : 0
+2020-12-12 17:32:00,439 Alpha calculated
+2020-12-12 17:32:00,439 Alpha Converged : 0
+2020-12-12 17:32:00,439 Alpha calculated
+2020-12-12 17:32:00,440 Alpha Converged : 0
+2020-12-12 17:32:00,440 Alpha calculated
+2020-12-12 17:32:00,440 Alpha Converged : 0
+2020-12-12 17:32:00,440 Alpha calculated
+2020-12-12 17:32:00,441 Alpha Converged : 0
+2020-12-12 17:32:00,441 Alpha calculated
+2020-12-12 17:32:00,441 Alpha Converged : 0
+2020-12-12 17:32:00,441 Alpha calculated
+2020-12-12 17:32:00,442 Alpha Converged : 0
+2020-12-12 17:32:00,442 Alpha calculated
+2020-12-12 17:32:00,442 Alpha Converged : 0
+2020-12-12 17:32:00,442 Alpha calculated
+2020-12-12 17:32:00,443 Alpha Converged : 0
+2020-12-12 17:32:00,443 Alpha calculated
+2020-12-12 17:32:00,443 Alpha Converged : 0
+2020-12-12 17:32:00,444 Alpha calculated
+2020-12-12 17:32:00,444 Alpha Converged : 0
+2020-12-12 17:32:00,444 Alpha calculated
+2020-12-12 17:32:00,444 Alpha Converged : 0
+2020-12-12 17:32:00,445 Alpha calculated
+2020-12-12 17:32:00,445 Alpha Converged : 0
+2020-12-12 17:32:00,445 Alpha calculated
+2020-12-12 17:32:00,445 Alpha Converged : 0
+2020-12-12 17:32:00,446 Alpha calculated
+2020-12-12 17:32:00,446 Alpha Converged : 0
+2020-12-12 17:32:00,446 Alpha calculated
+2020-12-12 17:32:00,446 Alpha Converged : 0
+2020-12-12 17:32:00,447 Alpha calculated
+2020-12-12 17:32:00,447 Alpha Converged : 0
+2020-12-12 17:32:00,447 Alpha calculated
+2020-12-12 17:32:00,447 Alpha Converged : 0
+2020-12-12 17:32:00,448 Alpha calculated
+2020-12-12 17:32:00,448 Alpha Converged : 0
+2020-12-12 17:32:00,448 Alpha calculated
+2020-12-12 17:32:00,449 Alpha Converged : 0
+2020-12-12 17:32:00,449 Alpha calculated
+2020-12-12 17:32:00,449 Alpha Converged : 0
+2020-12-12 17:32:00,449 Alpha calculated
+2020-12-12 17:32:00,450 Alpha Converged : 0
+2020-12-12 17:32:00,450 Alpha calculated
+2020-12-12 17:32:00,450 Alpha Converged : 0
+2020-12-12 17:32:00,450 Alpha calculated
+2020-12-12 17:32:00,451 Alpha Converged : 0
+2020-12-12 17:32:00,451 Alpha calculated
+2020-12-12 17:32:00,451 Alpha Converged : 0
+2020-12-12 17:32:00,451 Alpha calculated
+2020-12-12 17:32:00,452 Alpha Converged : 0
+2020-12-12 17:32:00,452 Alpha calculated
+2020-12-12 17:32:00,452 Alpha Converged : 0
+2020-12-12 17:32:00,452 Alpha calculated
+2020-12-12 17:32:00,453 Alpha Converged : 0
+2020-12-12 17:32:00,453 Alpha calculated
+2020-12-12 17:32:00,453 Alpha Converged : 0
+2020-12-12 17:32:00,453 Alpha calculated
+2020-12-12 17:32:00,454 Alpha Converged : 0
+2020-12-12 17:32:00,454 Alpha calculated
+2020-12-12 17:32:00,454 Alpha Converged : 0
+2020-12-12 17:32:00,454 Alpha calculated
+2020-12-12 17:32:00,455 Alpha Converged : 0
+2020-12-12 17:32:00,455 Alpha calculated
+2020-12-12 17:32:00,455 Alpha Converged : 0
+2020-12-12 17:32:00,456 Alpha calculated
+2020-12-12 17:32:00,456 Alpha Converged : 0
+2020-12-12 17:32:00,456 Alpha calculated
+2020-12-12 17:32:00,456 Alpha Converged : 0
+2020-12-12 17:32:00,457 Alpha calculated
+2020-12-12 17:32:00,457 Alpha Converged : 0
+2020-12-12 17:32:00,457 Alpha calculated
+2020-12-12 17:32:00,457 Alpha Converged : 0
+2020-12-12 17:32:00,458 Alpha calculated
+2020-12-12 17:32:00,458 Alpha Converged : 0
+2020-12-12 17:32:00,458 Alpha calculated
+2020-12-12 17:32:00,459 Alpha Converged : 0
+2020-12-12 17:32:00,459 Alpha calculated
+2020-12-12 17:32:00,459 Alpha Converged : 0
+2020-12-12 17:32:00,459 Alpha calculated
+2020-12-12 17:32:00,460 Alpha Converged : 0
+2020-12-12 17:32:00,460 Alpha calculated
+2020-12-12 17:32:00,460 Alpha Converged : 0
+2020-12-12 17:32:00,460 Alpha calculated
+2020-12-12 17:32:00,461 Alpha Converged : 0
+2020-12-12 17:32:00,461 Alpha calculated
+2020-12-12 17:32:00,461 Alpha Converged : 0
+2020-12-12 17:32:00,461 Alpha calculated
+2020-12-12 17:32:00,462 Alpha Converged : 0
+2020-12-12 17:32:00,462 Alpha calculated
+2020-12-12 17:32:00,462 Alpha Converged : 0
+2020-12-12 17:32:00,462 Alpha calculated
+2020-12-12 17:32:00,463 Alpha Converged : 0
+2020-12-12 17:32:00,463 Alpha calculated
+2020-12-12 17:32:00,463 Alpha Converged : 0
+2020-12-12 17:32:00,463 Alpha calculated
+2020-12-12 17:32:00,464 Alpha Converged : 0
+2020-12-12 17:32:00,464 Alpha calculated
+2020-12-12 17:32:00,464 Alpha Converged : 0
+2020-12-12 17:32:00,464 Alpha calculated
+2020-12-12 17:32:00,465 Alpha Converged : 0
+2020-12-12 17:32:00,465 Alpha calculated
+2020-12-12 17:32:00,465 Alpha Converged : 0
+2020-12-12 17:32:00,465 Alpha calculated
+2020-12-12 17:32:00,466 Alpha Converged : 0
+2020-12-12 17:32:00,466 Alpha calculated
+2020-12-12 17:32:00,466 Alpha Converged : 0
+2020-12-12 17:32:00,466 Alpha calculated
+2020-12-12 17:32:00,467 Alpha Converged : 0
+2020-12-12 17:32:00,467 Alpha calculated
+2020-12-12 17:32:00,467 Alpha Converged : 0
+2020-12-12 17:32:00,467 Alpha calculated
+2020-12-12 17:32:00,468 Alpha Converged : 0
+2020-12-12 17:32:00,468 Alpha calculated
+2020-12-12 17:32:00,468 Alpha Converged : 0
+2020-12-12 17:32:00,469 Alpha calculated
+2020-12-12 17:32:00,469 Alpha Converged : 0
+2020-12-12 17:32:00,469 Alpha calculated
+2020-12-12 17:32:00,469 Alpha Converged : 0
+2020-12-12 17:32:00,470 Alpha calculated
+2020-12-12 17:32:00,470 Alpha Converged : 0
+2020-12-12 17:32:00,470 Alpha calculated
+2020-12-12 17:32:00,471 Alpha Converged : 0
+2020-12-12 17:32:00,471 Alpha calculated
+2020-12-12 17:32:00,471 EStep completed
+2020-12-12 17:32:00,471 Mu calculated
+2020-12-12 17:32:00,472 Sigma calculated : 6.805831970337524e-11 
+2020-12-12 17:32:00,473 alphaLikelihood calculated
+2020-12-12 17:32:01,313 Beta converged : 2
+2020-12-12 17:32:01,313 Beta calculated
+2020-12-12 17:32:01,318 dataLikelihood calculated
+2020-12-12 17:32:01,319 Deltasq calculated
+2020-12-12 17:32:01,319 MStep completed
+2020-12-12 17:32:01,319 Alpha Converged : 0
+2020-12-12 17:32:01,319 Alpha calculated
+2020-12-12 17:32:01,320 Alpha Converged : 0
+2020-12-12 17:32:01,320 Alpha calculated
+2020-12-12 17:32:01,320 Alpha Converged : 0
+2020-12-12 17:32:01,320 Alpha calculated
+2020-12-12 17:32:01,321 Alpha Converged : 0
+2020-12-12 17:32:01,321 Alpha calculated
+2020-12-12 17:32:01,321 Alpha Converged : 0
+2020-12-12 17:32:01,321 Alpha calculated
+2020-12-12 17:32:01,321 Alpha Converged : 0
+2020-12-12 17:32:01,322 Alpha calculated
+2020-12-12 17:32:01,322 Alpha Converged : 0
+2020-12-12 17:32:01,322 Alpha calculated
+2020-12-12 17:32:01,323 Alpha Converged : 0
+2020-12-12 17:32:01,323 Alpha calculated
+2020-12-12 17:32:01,324 Alpha Converged : 0
+2020-12-12 17:32:01,324 Alpha calculated
+2020-12-12 17:32:01,324 Alpha Converged : 0
+2020-12-12 17:32:01,324 Alpha calculated
+2020-12-12 17:32:01,325 Alpha Converged : 0
+2020-12-12 17:32:01,325 Alpha calculated
+2020-12-12 17:32:01,325 Alpha Converged : 0
+2020-12-12 17:32:01,326 Alpha calculated
+2020-12-12 17:32:01,326 Alpha Converged : 0
+2020-12-12 17:32:01,326 Alpha calculated
+2020-12-12 17:32:01,327 Alpha Converged : 0
+2020-12-12 17:32:01,327 Alpha calculated
+2020-12-12 17:32:01,328 Alpha Converged : 0
+2020-12-12 17:32:01,328 Alpha calculated
+2020-12-12 17:32:01,328 Alpha Converged : 0
+2020-12-12 17:32:01,328 Alpha calculated
+2020-12-12 17:32:01,329 Alpha Converged : 0
+2020-12-12 17:32:01,329 Alpha calculated
+2020-12-12 17:32:01,329 Alpha Converged : 0
+2020-12-12 17:32:01,329 Alpha calculated
+2020-12-12 17:32:01,330 Alpha Converged : 0
+2020-12-12 17:32:01,330 Alpha calculated
+2020-12-12 17:32:01,330 Alpha Converged : 0
+2020-12-12 17:32:01,330 Alpha calculated
+2020-12-12 17:32:01,331 Alpha Converged : 0
+2020-12-12 17:32:01,331 Alpha calculated
+2020-12-12 17:32:01,331 Alpha Converged : 0
+2020-12-12 17:32:01,331 Alpha calculated
+2020-12-12 17:32:01,332 Alpha Converged : 0
+2020-12-12 17:32:01,332 Alpha calculated
+2020-12-12 17:32:01,332 Alpha Converged : 0
+2020-12-12 17:32:01,332 Alpha calculated
+2020-12-12 17:32:01,333 Alpha Converged : 0
+2020-12-12 17:32:01,333 Alpha calculated
+2020-12-12 17:32:01,333 Alpha Converged : 0
+2020-12-12 17:32:01,334 Alpha calculated
+2020-12-12 17:32:01,334 Alpha Converged : 0
+2020-12-12 17:32:01,334 Alpha calculated
+2020-12-12 17:32:01,335 Alpha Converged : 0
+2020-12-12 17:32:01,335 Alpha calculated
+2020-12-12 17:32:01,335 Alpha Converged : 0
+2020-12-12 17:32:01,335 Alpha calculated
+2020-12-12 17:32:01,336 Alpha Converged : 0
+2020-12-12 17:32:01,336 Alpha calculated
+2020-12-12 17:32:01,337 Alpha Converged : 0
+2020-12-12 17:32:01,337 Alpha calculated
+2020-12-12 17:32:01,338 Alpha Converged : 0
+2020-12-12 17:32:01,338 Alpha calculated
+2020-12-12 17:32:01,339 Alpha Converged : 0
+2020-12-12 17:32:01,339 Alpha calculated
+2020-12-12 17:32:01,339 Alpha Converged : 0
+2020-12-12 17:32:01,339 Alpha calculated
+2020-12-12 17:32:01,340 Alpha Converged : 0
+2020-12-12 17:32:01,340 Alpha calculated
+2020-12-12 17:32:01,340 Alpha Converged : 0
+2020-12-12 17:32:01,340 Alpha calculated
+2020-12-12 17:32:01,341 Alpha Converged : 0
+2020-12-12 17:32:01,341 Alpha calculated
+2020-12-12 17:32:01,341 Alpha Converged : 0
+2020-12-12 17:32:01,341 Alpha calculated
+2020-12-12 17:32:01,342 Alpha Converged : 0
+2020-12-12 17:32:01,342 Alpha calculated
+2020-12-12 17:32:01,342 Alpha Converged : 0
+2020-12-12 17:32:01,343 Alpha calculated
+2020-12-12 17:32:01,343 Alpha Converged : 0
+2020-12-12 17:32:01,343 Alpha calculated
+2020-12-12 17:32:01,344 Alpha Converged : 0
+2020-12-12 17:32:01,344 Alpha calculated
+2020-12-12 17:32:01,345 Alpha Converged : 0
+2020-12-12 17:32:01,345 Alpha calculated
+2020-12-12 17:32:01,346 Alpha Converged : 0
+2020-12-12 17:32:01,346 Alpha calculated
+2020-12-12 17:32:01,347 Alpha Converged : 0
+2020-12-12 17:32:01,347 Alpha calculated
+2020-12-12 17:32:01,348 Alpha Converged : 0
+2020-12-12 17:32:01,348 Alpha calculated
+2020-12-12 17:32:01,348 Alpha Converged : 0
+2020-12-12 17:32:01,349 Alpha calculated
+2020-12-12 17:32:01,349 Alpha Converged : 0
+2020-12-12 17:32:01,349 Alpha calculated
+2020-12-12 17:32:01,349 Alpha Converged : 0
+2020-12-12 17:32:01,349 Alpha calculated
+2020-12-12 17:32:01,350 Alpha Converged : 0
+2020-12-12 17:32:01,350 Alpha calculated
+2020-12-12 17:32:01,350 Alpha Converged : 0
+2020-12-12 17:32:01,350 Alpha calculated
+2020-12-12 17:32:01,350 Alpha Converged : 0
+2020-12-12 17:32:01,351 Alpha calculated
+2020-12-12 17:32:01,351 Alpha Converged : 0
+2020-12-12 17:32:01,351 Alpha calculated
+2020-12-12 17:32:01,351 Alpha Converged : 0
+2020-12-12 17:32:01,351 Alpha calculated
+2020-12-12 17:32:01,352 Alpha Converged : 0
+2020-12-12 17:32:01,352 Alpha calculated
+2020-12-12 17:32:01,352 Alpha Converged : 0
+2020-12-12 17:32:01,352 Alpha calculated
+2020-12-12 17:32:01,352 Alpha Converged : 0
+2020-12-12 17:32:01,352 Alpha calculated
+2020-12-12 17:32:01,353 Alpha Converged : 0
+2020-12-12 17:32:01,353 Alpha calculated
+2020-12-12 17:32:01,353 Alpha Converged : 0
+2020-12-12 17:32:01,353 Alpha calculated
+2020-12-12 17:32:01,354 Alpha Converged : 0
+2020-12-12 17:32:01,354 Alpha calculated
+2020-12-12 17:32:01,354 Alpha Converged : 0
+2020-12-12 17:32:01,354 Alpha calculated
+2020-12-12 17:32:01,354 Alpha Converged : 0
+2020-12-12 17:32:01,355 Alpha calculated
+2020-12-12 17:32:01,355 Alpha Converged : 0
+2020-12-12 17:32:01,355 Alpha calculated
+2020-12-12 17:32:01,356 Alpha Converged : 0
+2020-12-12 17:32:01,356 Alpha calculated
+2020-12-12 17:32:01,356 Alpha Converged : 0
+2020-12-12 17:32:01,356 Alpha calculated
+2020-12-12 17:32:01,357 Alpha Converged : 0
+2020-12-12 17:32:01,357 Alpha calculated
+2020-12-12 17:32:01,357 Alpha Converged : 0
+2020-12-12 17:32:01,357 Alpha calculated
+2020-12-12 17:32:01,358 Alpha Converged : 0
+2020-12-12 17:32:01,358 Alpha calculated
+2020-12-12 17:32:01,358 Alpha Converged : 0
+2020-12-12 17:32:01,358 Alpha calculated
+2020-12-12 17:32:01,359 Alpha Converged : 0
+2020-12-12 17:32:01,359 Alpha calculated
+2020-12-12 17:32:01,359 Alpha Converged : 0
+2020-12-12 17:32:01,359 Alpha calculated
+2020-12-12 17:32:01,360 Alpha Converged : 0
+2020-12-12 17:32:01,360 Alpha calculated
+2020-12-12 17:32:01,360 Alpha Converged : 0
+2020-12-12 17:32:01,360 Alpha calculated
+2020-12-12 17:32:01,360 Alpha Converged : 0
+2020-12-12 17:32:01,361 Alpha calculated
+2020-12-12 17:32:01,361 Alpha Converged : 0
+2020-12-12 17:32:01,361 Alpha calculated
+2020-12-12 17:32:01,361 Alpha Converged : 0
+2020-12-12 17:32:01,361 Alpha calculated
+2020-12-12 17:32:01,362 Alpha Converged : 0
+2020-12-12 17:32:01,362 Alpha calculated
+2020-12-12 17:32:01,362 Alpha Converged : 0
+2020-12-12 17:32:01,362 Alpha calculated
+2020-12-12 17:32:01,363 Alpha Converged : 0
+2020-12-12 17:32:01,363 Alpha calculated
+2020-12-12 17:32:01,363 Alpha Converged : 0
+2020-12-12 17:32:01,363 Alpha calculated
+2020-12-12 17:32:01,363 Alpha Converged : 0
+2020-12-12 17:32:01,363 Alpha calculated
+2020-12-12 17:32:01,364 Alpha Converged : 0
+2020-12-12 17:32:01,364 Alpha calculated
+2020-12-12 17:32:01,364 Alpha Converged : 0
+2020-12-12 17:32:01,364 Alpha calculated
+2020-12-12 17:32:01,365 Alpha Converged : 0
+2020-12-12 17:32:01,365 Alpha calculated
+2020-12-12 17:32:01,365 Alpha Converged : 0
+2020-12-12 17:32:01,365 Alpha calculated
+2020-12-12 17:32:01,366 Alpha Converged : 0
+2020-12-12 17:32:01,366 Alpha calculated
+2020-12-12 17:32:01,366 Alpha Converged : 0
+2020-12-12 17:32:01,366 Alpha calculated
+2020-12-12 17:32:01,367 Alpha Converged : 0
+2020-12-12 17:32:01,367 Alpha calculated
+2020-12-12 17:32:01,367 Alpha Converged : 0
+2020-12-12 17:32:01,367 Alpha calculated
+2020-12-12 17:32:01,367 Alpha Converged : 0
+2020-12-12 17:32:01,367 Alpha calculated
+2020-12-12 17:32:01,368 Alpha Converged : 0
+2020-12-12 17:32:01,368 Alpha calculated
+2020-12-12 17:32:01,368 Alpha Converged : 0
+2020-12-12 17:32:01,368 Alpha calculated
+2020-12-12 17:32:01,368 Alpha Converged : 0
+2020-12-12 17:32:01,369 Alpha calculated
+2020-12-12 17:32:01,369 Alpha Converged : 0
+2020-12-12 17:32:01,369 Alpha calculated
+2020-12-12 17:32:01,369 Alpha Converged : 0
+2020-12-12 17:32:01,369 Alpha calculated
+2020-12-12 17:32:01,370 Alpha Converged : 0
+2020-12-12 17:32:01,370 Alpha calculated
+2020-12-12 17:32:01,370 Alpha Converged : 0
+2020-12-12 17:32:01,370 Alpha calculated
+2020-12-12 17:32:01,370 Alpha Converged : 0
+2020-12-12 17:32:01,371 Alpha calculated
+2020-12-12 17:32:01,371 Alpha Converged : 0
+2020-12-12 17:32:01,371 Alpha calculated
+2020-12-12 17:32:01,371 Alpha Converged : 0
+2020-12-12 17:32:01,371 Alpha calculated
+2020-12-12 17:32:01,372 Alpha Converged : 0
+2020-12-12 17:32:01,372 Alpha calculated
+2020-12-12 17:32:01,372 Alpha Converged : 0
+2020-12-12 17:32:01,372 Alpha calculated
+2020-12-12 17:32:01,372 Alpha Converged : 0
+2020-12-12 17:32:01,373 Alpha calculated
+2020-12-12 17:32:01,373 Alpha Converged : 0
+2020-12-12 17:32:01,373 Alpha calculated
+2020-12-12 17:32:01,373 Alpha Converged : 0
+2020-12-12 17:32:01,373 Alpha calculated
+2020-12-12 17:32:01,374 Alpha Converged : 0
+2020-12-12 17:32:01,374 Alpha calculated
+2020-12-12 17:32:01,374 Alpha Converged : 0
+2020-12-12 17:32:01,374 Alpha calculated
+2020-12-12 17:32:01,374 EStep completed
+2020-12-12 17:32:01,374 Mu calculated
+2020-12-12 17:32:01,375 Sigma calculated : 6.798096757005166e-11 
+2020-12-12 17:32:01,376 alphaLikelihood calculated
+2020-12-12 17:32:02,175 Beta converged : 2
+2020-12-12 17:32:02,175 Beta calculated
+2020-12-12 17:32:02,180 dataLikelihood calculated
+2020-12-12 17:32:02,180 Deltasq calculated
+2020-12-12 17:32:02,180 MStep completed
+2020-12-12 17:32:02,181 Alpha Converged : 0
+2020-12-12 17:32:02,181 Alpha calculated
+2020-12-12 17:32:02,181 Alpha Converged : 0
+2020-12-12 17:32:02,182 Alpha calculated
+2020-12-12 17:32:02,182 Alpha Converged : 0
+2020-12-12 17:32:02,182 Alpha calculated
+2020-12-12 17:32:02,183 Alpha Converged : 0
+2020-12-12 17:32:02,183 Alpha calculated
+2020-12-12 17:32:02,184 Alpha Converged : 0
+2020-12-12 17:32:02,184 Alpha calculated
+2020-12-12 17:32:02,184 Alpha Converged : 0
+2020-12-12 17:32:02,184 Alpha calculated
+2020-12-12 17:32:02,185 Alpha Converged : 0
+2020-12-12 17:32:02,185 Alpha calculated
+2020-12-12 17:32:02,186 Alpha Converged : 0
+2020-12-12 17:32:02,186 Alpha calculated
+2020-12-12 17:32:02,186 Alpha Converged : 0
+2020-12-12 17:32:02,186 Alpha calculated
+2020-12-12 17:32:02,187 Alpha Converged : 0
+2020-12-12 17:32:02,187 Alpha calculated
+2020-12-12 17:32:02,187 Alpha Converged : 0
+2020-12-12 17:32:02,187 Alpha calculated
+2020-12-12 17:32:02,188 Alpha Converged : 0
+2020-12-12 17:32:02,188 Alpha calculated
+2020-12-12 17:32:02,188 Alpha Converged : 0
+2020-12-12 17:32:02,188 Alpha calculated
+2020-12-12 17:32:02,189 Alpha Converged : 0
+2020-12-12 17:32:02,189 Alpha calculated
+2020-12-12 17:32:02,189 Alpha Converged : 0
+2020-12-12 17:32:02,189 Alpha calculated
+2020-12-12 17:32:02,190 Alpha Converged : 0
+2020-12-12 17:32:02,190 Alpha calculated
+2020-12-12 17:32:02,190 Alpha Converged : 0
+2020-12-12 17:32:02,191 Alpha calculated
+2020-12-12 17:32:02,191 Alpha Converged : 0
+2020-12-12 17:32:02,191 Alpha calculated
+2020-12-12 17:32:02,192 Alpha Converged : 0
+2020-12-12 17:32:02,192 Alpha calculated
+2020-12-12 17:32:02,192 Alpha Converged : 0
+2020-12-12 17:32:02,192 Alpha calculated
+2020-12-12 17:32:02,193 Alpha Converged : 0
+2020-12-12 17:32:02,193 Alpha calculated
+2020-12-12 17:32:02,193 Alpha Converged : 0
+2020-12-12 17:32:02,193 Alpha calculated
+2020-12-12 17:32:02,194 Alpha Converged : 0
+2020-12-12 17:32:02,194 Alpha calculated
+2020-12-12 17:32:02,194 Alpha Converged : 0
+2020-12-12 17:32:02,194 Alpha calculated
+2020-12-12 17:32:02,195 Alpha Converged : 0
+2020-12-12 17:32:02,195 Alpha calculated
+2020-12-12 17:32:02,195 Alpha Converged : 0
+2020-12-12 17:32:02,195 Alpha calculated
+2020-12-12 17:32:02,196 Alpha Converged : 0
+2020-12-12 17:32:02,196 Alpha calculated
+2020-12-12 17:32:02,196 Alpha Converged : 0
+2020-12-12 17:32:02,197 Alpha calculated
+2020-12-12 17:32:02,197 Alpha Converged : 0
+2020-12-12 17:32:02,197 Alpha calculated
+2020-12-12 17:32:02,198 Alpha Converged : 0
+2020-12-12 17:32:02,198 Alpha calculated
+2020-12-12 17:32:02,198 Alpha Converged : 0
+2020-12-12 17:32:02,198 Alpha calculated
+2020-12-12 17:32:02,199 Alpha Converged : 0
+2020-12-12 17:32:02,199 Alpha calculated
+2020-12-12 17:32:02,199 Alpha Converged : 0
+2020-12-12 17:32:02,200 Alpha calculated
+2020-12-12 17:32:02,200 Alpha Converged : 0
+2020-12-12 17:32:02,200 Alpha calculated
+2020-12-12 17:32:02,201 Alpha Converged : 0
+2020-12-12 17:32:02,201 Alpha calculated
+2020-12-12 17:32:02,201 Alpha Converged : 0
+2020-12-12 17:32:02,201 Alpha calculated
+2020-12-12 17:32:02,202 Alpha Converged : 0
+2020-12-12 17:32:02,202 Alpha calculated
+2020-12-12 17:32:02,202 Alpha Converged : 0
+2020-12-12 17:32:02,202 Alpha calculated
+2020-12-12 17:32:02,203 Alpha Converged : 0
+2020-12-12 17:32:02,203 Alpha calculated
+2020-12-12 17:32:02,203 Alpha Converged : 0
+2020-12-12 17:32:02,204 Alpha calculated
+2020-12-12 17:32:02,204 Alpha Converged : 0
+2020-12-12 17:32:02,204 Alpha calculated
+2020-12-12 17:32:02,205 Alpha Converged : 0
+2020-12-12 17:32:02,205 Alpha calculated
+2020-12-12 17:32:02,205 Alpha Converged : 0
+2020-12-12 17:32:02,205 Alpha calculated
+2020-12-12 17:32:02,206 Alpha Converged : 0
+2020-12-12 17:32:02,206 Alpha calculated
+2020-12-12 17:32:02,206 Alpha Converged : 0
+2020-12-12 17:32:02,206 Alpha calculated
+2020-12-12 17:32:02,207 Alpha Converged : 0
+2020-12-12 17:32:02,207 Alpha calculated
+2020-12-12 17:32:02,207 Alpha Converged : 0
+2020-12-12 17:32:02,207 Alpha calculated
+2020-12-12 17:32:02,208 Alpha Converged : 0
+2020-12-12 17:32:02,208 Alpha calculated
+2020-12-12 17:32:02,208 Alpha Converged : 0
+2020-12-12 17:32:02,208 Alpha calculated
+2020-12-12 17:32:02,209 Alpha Converged : 0
+2020-12-12 17:32:02,209 Alpha calculated
+2020-12-12 17:32:02,209 Alpha Converged : 0
+2020-12-12 17:32:02,209 Alpha calculated
+2020-12-12 17:32:02,210 Alpha Converged : 0
+2020-12-12 17:32:02,210 Alpha calculated
+2020-12-12 17:32:02,210 Alpha Converged : 0
+2020-12-12 17:32:02,211 Alpha calculated
+2020-12-12 17:32:02,211 Alpha Converged : 0
+2020-12-12 17:32:02,211 Alpha calculated
+2020-12-12 17:32:02,212 Alpha Converged : 0
+2020-12-12 17:32:02,212 Alpha calculated
+2020-12-12 17:32:02,212 Alpha Converged : 0
+2020-12-12 17:32:02,212 Alpha calculated
+2020-12-12 17:32:02,213 Alpha Converged : 0
+2020-12-12 17:32:02,213 Alpha calculated
+2020-12-12 17:32:02,213 Alpha Converged : 0
+2020-12-12 17:32:02,213 Alpha calculated
+2020-12-12 17:32:02,214 Alpha Converged : 0
+2020-12-12 17:32:02,214 Alpha calculated
+2020-12-12 17:32:02,214 Alpha Converged : 0
+2020-12-12 17:32:02,215 Alpha calculated
+2020-12-12 17:32:02,215 Alpha Converged : 0
+2020-12-12 17:32:02,215 Alpha calculated
+2020-12-12 17:32:02,216 Alpha Converged : 0
+2020-12-12 17:32:02,216 Alpha calculated
+2020-12-12 17:32:02,216 Alpha Converged : 0
+2020-12-12 17:32:02,216 Alpha calculated
+2020-12-12 17:32:02,217 Alpha Converged : 0
+2020-12-12 17:32:02,217 Alpha calculated
+2020-12-12 17:32:02,217 Alpha Converged : 0
+2020-12-12 17:32:02,218 Alpha calculated
+2020-12-12 17:32:02,218 Alpha Converged : 0
+2020-12-12 17:32:02,218 Alpha calculated
+2020-12-12 17:32:02,219 Alpha Converged : 0
+2020-12-12 17:32:02,219 Alpha calculated
+2020-12-12 17:32:02,219 Alpha Converged : 0
+2020-12-12 17:32:02,219 Alpha calculated
+2020-12-12 17:32:02,220 Alpha Converged : 0
+2020-12-12 17:32:02,220 Alpha calculated
+2020-12-12 17:32:02,221 Alpha Converged : 0
+2020-12-12 17:32:02,221 Alpha calculated
+2020-12-12 17:32:02,222 Alpha Converged : 0
+2020-12-12 17:32:02,222 Alpha calculated
+2020-12-12 17:32:02,223 Alpha Converged : 0
+2020-12-12 17:32:02,223 Alpha calculated
+2020-12-12 17:32:02,224 Alpha Converged : 0
+2020-12-12 17:32:02,224 Alpha calculated
+2020-12-12 17:32:02,224 Alpha Converged : 0
+2020-12-12 17:32:02,224 Alpha calculated
+2020-12-12 17:32:02,225 Alpha Converged : 0
+2020-12-12 17:32:02,225 Alpha calculated
+2020-12-12 17:32:02,225 Alpha Converged : 0
+2020-12-12 17:32:02,225 Alpha calculated
+2020-12-12 17:32:02,226 Alpha Converged : 0
+2020-12-12 17:32:02,226 Alpha calculated
+2020-12-12 17:32:02,226 Alpha Converged : 0
+2020-12-12 17:32:02,226 Alpha calculated
+2020-12-12 17:32:02,227 Alpha Converged : 0
+2020-12-12 17:32:02,227 Alpha calculated
+2020-12-12 17:32:02,228 Alpha Converged : 0
+2020-12-12 17:32:02,228 Alpha calculated
+2020-12-12 17:32:02,228 Alpha Converged : 0
+2020-12-12 17:32:02,228 Alpha calculated
+2020-12-12 17:32:02,229 Alpha Converged : 0
+2020-12-12 17:32:02,229 Alpha calculated
+2020-12-12 17:32:02,229 Alpha Converged : 0
+2020-12-12 17:32:02,229 Alpha calculated
+2020-12-12 17:32:02,230 Alpha Converged : 0
+2020-12-12 17:32:02,230 Alpha calculated
+2020-12-12 17:32:02,230 Alpha Converged : 0
+2020-12-12 17:32:02,230 Alpha calculated
+2020-12-12 17:32:02,231 Alpha Converged : 0
+2020-12-12 17:32:02,231 Alpha calculated
+2020-12-12 17:32:02,231 Alpha Converged : 0
+2020-12-12 17:32:02,232 Alpha calculated
+2020-12-12 17:32:02,232 Alpha Converged : 0
+2020-12-12 17:32:02,232 Alpha calculated
+2020-12-12 17:32:02,233 Alpha Converged : 0
+2020-12-12 17:32:02,233 Alpha calculated
+2020-12-12 17:32:02,233 Alpha Converged : 0
+2020-12-12 17:32:02,233 Alpha calculated
+2020-12-12 17:32:02,234 Alpha Converged : 0
+2020-12-12 17:32:02,234 Alpha calculated
+2020-12-12 17:32:02,234 Alpha Converged : 0
+2020-12-12 17:32:02,234 Alpha calculated
+2020-12-12 17:32:02,235 Alpha Converged : 0
+2020-12-12 17:32:02,235 Alpha calculated
+2020-12-12 17:32:02,235 Alpha Converged : 0
+2020-12-12 17:32:02,235 Alpha calculated
+2020-12-12 17:32:02,236 Alpha Converged : 0
+2020-12-12 17:32:02,236 Alpha calculated
+2020-12-12 17:32:02,236 Alpha Converged : 0
+2020-12-12 17:32:02,237 Alpha calculated
+2020-12-12 17:32:02,237 Alpha Converged : 0
+2020-12-12 17:32:02,237 Alpha calculated
+2020-12-12 17:32:02,238 Alpha Converged : 0
+2020-12-12 17:32:02,238 Alpha calculated
+2020-12-12 17:32:02,238 Alpha Converged : 0
+2020-12-12 17:32:02,238 Alpha calculated
+2020-12-12 17:32:02,239 Alpha Converged : 0
+2020-12-12 17:32:02,239 Alpha calculated
+2020-12-12 17:32:02,239 Alpha Converged : 0
+2020-12-12 17:32:02,239 Alpha calculated
+2020-12-12 17:32:02,240 Alpha Converged : 0
+2020-12-12 17:32:02,240 Alpha calculated
+2020-12-12 17:32:02,240 Alpha Converged : 0
+2020-12-12 17:32:02,241 Alpha calculated
+2020-12-12 17:32:02,241 Alpha Converged : 0
+2020-12-12 17:32:02,241 Alpha calculated
+2020-12-12 17:32:02,242 Alpha Converged : 0
+2020-12-12 17:32:02,242 Alpha calculated
+2020-12-12 17:32:02,242 Alpha Converged : 0
+2020-12-12 17:32:02,242 Alpha calculated
+2020-12-12 17:32:02,243 Alpha Converged : 0
+2020-12-12 17:32:02,243 Alpha calculated
+2020-12-12 17:32:02,243 EStep completed
+2020-12-12 17:32:02,243 Mu calculated
+2020-12-12 17:32:02,244 Sigma calculated : 6.796700060194184e-11 
+2020-12-12 17:32:02,245 alphaLikelihood calculated
+2020-12-12 17:32:03,185 Beta converged : 2
+2020-12-12 17:32:03,185 Beta calculated
+2020-12-12 17:32:03,193 dataLikelihood calculated
+2020-12-12 17:32:03,194 Deltasq calculated
+2020-12-12 17:32:03,194 MStep completed
+2020-12-12 17:32:03,194 Training completed

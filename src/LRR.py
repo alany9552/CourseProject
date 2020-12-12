@@ -46,7 +46,7 @@ class LRR:
         self.R = len(self.reviewIdList)
         
         #breaking dataset into 3:1 ratio, 3 parts for training and 1 for testing
-        self.trainIndex = random.sample(range(0, self.R), int(0.75*self.R))
+        self.trainIndex = random.sample(range(0, self.R), int(0.80*self.R))
         self.testIndex = list(set(range(0, self.R)) - set(self.trainIndex))
 
         #number of aspects
@@ -357,6 +357,7 @@ class LRR:
             overallRating = self.calcOverallRating(self.mu,Sd)
             print("ReviewId-",self.reviewIdList[rIdx])
             print("Actual OverallRating:",self.ratingsList[rIdx]["Overall"])
+            # if(overallRating < 1000):
             actual.append(self.ratingsList[rIdx]["Overall"])
             prediction.append(overallRating)
             print("Predicted OverallRating:",overallRating)
@@ -369,18 +370,23 @@ class LRR:
                 print("Positive Review")
             else:
                 print("Negative Review")
-actual = list()
+
+    def draw(self, actual, prediction):
+        df=pd.DataFrame({'x': range(1,len(actual) + 1), 'actual': np.array(actual), 'prediction': np.array(prediction) })
+        plt.plot( 'x', 'actual', data=df, marker='o', color='blue', linewidth=2, label="actual")
+        plt.plot( 'x', 'prediction', data=df, marker='o', color='red', linewidth=2, linestyle='dashed', label="prediction")
+        plt.legend()
+        plt.show()
+
+actual = list() 
 prediction = list()
 np.seterr(all='raise')
 lrrObj = LRR()
-lrrObj.EMAlgo(maxIter=50, coverge=0.01)
-lrrObj.testing()
-draw()
+lrrObj.EMAlgo(maxIter=100, coverge=0.01)
+lrrObj.testing(actual, prediction)
+lrrObj.draw(actual, prediction)
 
-# def draw(actual, prediction):
 
 
 # In[ ]:
-
-
 
