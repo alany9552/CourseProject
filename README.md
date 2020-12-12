@@ -23,7 +23,24 @@ Ge Yu - gey2@illinois.edu
 
 ## Organization of the implemenataion:
 
-Directory:
+* src/hotelRivews:
+
+This directory includes the hotel reviews download from the database http://times.cs.uiuc.edu/~wang296/Data/ from TripAdvisor. For testing, we include only one review file. You are free to download the whole dataset to do a better training, which might take up to 30 minutes to run 10 json files.
+ 
+* src/Settings:
+
+This is the directory to store the pre-difined laten words and stopwords downloaded from nltk libaray.
+
+* src/modelData:
+
+This is the directory to store the data after processed by readData.py, the file includes the ratings, reviewID, each word's frequencyy and the aspectKeywords after reading thereviews.
+
+* src
+
+This is the directory to store all of the files including three main class: readData.py, BootStrap.py and LRR.py
+
+
+
 
 There are two classes Sentence and Review each coded in different python files. These act as data containers for a sentence and a single review respectively. 
 ReadData contains all functions for processing the reviews. BootStrap class contains the bootstrapping algorithm as explained in the paper. LRR class contains the implementation of Rating Regression algorithm as described in the paper. 
