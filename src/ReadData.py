@@ -127,7 +127,7 @@ class ReadData:
             if not review.sentences:
                 emptyReviews.add(review)
 
-        temp2 = [x for x in self.allReviews if x not in emptySentences]
+        temp2 = [x for x in self.allReviews if x not in emptyReviews]
         for i, x in enumerate(self.allReviews):
             if x not in emptyReviews:
                 self.allReviews[i] = x #x?
