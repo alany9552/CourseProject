@@ -59,3 +59,7 @@ The software running can also be customized by users in terms of ratio of traini
 
 * Reading Results:
 The results will list the “ReviewId”, “Actual OverallRating”, and “Predicted OverallRating” respectively. Also, there is a simple classification at the end of prediction that the review would be positive when the “Predicted OverallRating” is greater than 3.0 or negative when it is smaller than 3.0.
+
+## Introduction Videos:
+
+https://mediaspace.illinois.edu/media/t/1_jj5lzils
