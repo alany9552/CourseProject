@@ -7,15 +7,15 @@ https://mediaspace.illinois.edu/media/t/1_jj5lzils
 
 https://www.youtube.com/watch?v=o0bTraiYkNM&feature=youtu.be
 
-## The python implementation is following the instructions from research papers:
+## Citations and resources:
+
+The python implementation is following the instructions from research papers:
 
 "Latent Aspect Rating Analysis on Review Text Data: A Rating Regression Approach", 
 http://sifaka.cs.uiuc.edu/~wang296/paper/rp166f-wang.pdf
 
 "Latent Aspect Rating Analysis without Aspect Keyword Supervision",
 http://sifaka.cs.uiuc.edu/~wang296/paper/p618.pdf
-
-## Implementations and Contributers:
 
 This implementation uses the orignal implementation given by the author (http://www.cs.virginia.edu/~hw5x/Codes/LARA.zip).
 Also, the Latent Rating Regression model and Bootstrap use the implementation of existing models from:
