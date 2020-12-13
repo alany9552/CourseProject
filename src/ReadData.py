@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[2]:
-
 import json
 import nltk
 from nltk.corpus import stopwords
@@ -61,12 +56,6 @@ class ReadData:
 
 
     def stemmingStopWRemoval(self, review, vocab):
-        ''' Does Following things:
-        1. Tokenize review into sentences, and then into words
-        2. Remove stopwords, punctuation and stem each word
-        3. Add words into vocab
-        4. Make Sentence objects and corresponding Review object
-        '''
         reviewObj = Review()
         #copying ratings into reviewObj
         for ratingType, rating in review["Ratings"].items():
@@ -99,18 +88,13 @@ class ReadData:
             #print(reviewObj)
 
     def readReviewsFromJson(self):
-        ''' Reads reviews frm the corpus, calls stemmingStopWRemoval
-        and creates list of lessFrequentWords (frequency<5)
-        '''
         vocab=[]
         for filename in glob.glob(os.path.join(path, '*.json')):
-            # print(filename)
-            # print("111")
             fd=open(filename)
             data=json.load(fd)
             for review in data["Reviews"]:
                 self.stemmingStopWRemoval(review,vocab)
-                print(review)
+
         self.wordFreq = FreqDist(vocab)
         for word,freq in self.wordFreq.items():
             if freq < 5:
@@ -118,9 +102,6 @@ class ReadData:
         for word in self.lessFrequentWords:
             del self.wordFreq[word]
 
-
-        # print("Less Frequent Words ",self.lessFrequentWords)
-        # print("Vocab ", self.wordFreq.pformat(10000))
 
     def removeLessFreqWords(self):
         emptyReviews = set()
@@ -143,20 +124,6 @@ class ReadData:
                     review.sentences[i] = x #x?
                 else:
                     review.sentences.pop(i)
-            # print(len(temp))
-            # print(len(review.sentences))
-            # for i in range(len(review.sentences)):
-            #     if temp[i] == review.sentences[i]:
-            #         print("True")
-            #     else:
-            #         print("False")
-
-
-            # review.sentences[:] = [x for x in review.sentences if x not in emptySentences]
-            # print(x for x in review.sentences if x not in emptySentences)
-            # for x in review.sentences:
-            #     if x not in emptySentences:
-            #         print(x)
             if not review.sentences:
                 emptyReviews.add(review)
 
@@ -166,5 +133,3 @@ class ReadData:
                 self.allReviews[i] = x #x?
             else:
                 self.allReviews[i].pop(i)
-
-        #self.allReviews[:] = [x for x in self.allReviews if x not in emptyReviews]
