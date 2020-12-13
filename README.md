@@ -52,6 +52,12 @@ This is the directory to store all of the files including three main class: read
 ## How to run the model:
 To run the software, users need to make sure they have installed the Python3 environment on their device. Also, the software uses nltk stopwords so users should use import nltk, nltk.download(‘stopwords’), and nltk.download(‘punkt’) to download the necessary dictionaries. 
 
+* Step-by-step tutorial:
+
+https://mediaspace.illinois.edu/media/1_s4x9i7wo
+
+https://www.youtube.com/watch?v=sbRppuoFsgY&feature=youtu.be
+
 * Background:
 Python 3.7
 
